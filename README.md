@@ -9,7 +9,7 @@ Based on the starter kit, we can find several solution ideas from here
 https://github.com/Call-for-Code/Solution-Starter-Kit-Production-2021#more-solution-ideas
 
 # contributors
-Tom Yu - yukangle
-Zhengyu Zhang - zyzhang0703
-Faymay Cheng - ???
-Rachel Xie - ???
+- Tom Yu - yukangle
+- Zhengyu Zhang - zyzhang0703
+- Faymay Cheng - ???
+- Rachel Xie - ???
