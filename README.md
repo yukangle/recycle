@@ -8,6 +8,21 @@ https://developer.ibm.com/callforcode/get-started/climate-change/green-consumpti
 Based on the starter kit, we can find several solution ideas from here
 https://github.com/Call-for-Code/Solution-Starter-Kit-Production-2021#more-solution-ideas
 
+# solution details
+[Pending for details]
+
+# architecture
+[Pending]
+
+# system diagram
+[Pending]
+
+# technologies
+- Node.js
+- Angular
+- ElasticSearch
+- IBM Watson Discovery
+
 # contributors
 - Tom Yu - yukangle
 - Zhengyu Zhang - zyzhang0703
