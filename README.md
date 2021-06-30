@@ -26,5 +26,5 @@ https://github.com/Call-for-Code/Solution-Starter-Kit-Production-2021#more-solut
 # contributors
 - Tom Yu - yukangle
 - Zhengyu Zhang - zyzhang0703
-- Faymay Cheng - ???
+- Faymay Cheng - FaymayCL
 - Rachel Xie - rachelxyxy
