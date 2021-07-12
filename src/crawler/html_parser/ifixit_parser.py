@@ -1,7 +1,6 @@
 from collections import defaultdict
 
 from bs4 import BeautifulSoup
-import json
 
 from html_parser.html_parser import HTMLParser
 
@@ -30,6 +29,4 @@ class IFixItParser(HTMLParser):
                 for pluse_or_minus_li in plus_and_minus_ul.find_all('li', f'device-detail {pluse_or_minus}'):
                     device['plus_and_minus'][pluse_or_minus].append(pluse_or_minus_li.get_text(strip=True))
 
-        j = json.dumps(result, indent=2)
-        print(j)
         return result
