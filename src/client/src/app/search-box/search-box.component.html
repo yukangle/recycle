@@ -3,9 +3,11 @@
     <input #searchBox type="text" class="form-control" placeholder="Type term for searching here..." (keyup)="search(searchBox.value)" />
     <!-- <button class="input-group-append btn btn-search" (click)="query()">SEARCH</button> -->
   </div>
-  <ul>
-    <li *ngFor="let item of results$ | async">
-      {{item.product}}
-    </li>
-  </ul>
+
+  <div>
+    <div *ngFor="let it of results$ | async">
+      <!-- <span>{{item.product}}</span> -->
+      <app-matched-card [item]="it"></app-matched-card>
+    </div>
+  </div>
 </div>

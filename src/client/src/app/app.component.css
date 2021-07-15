@@ -17,14 +17,26 @@
   margin-top: 80px;
 }
 
+.main-container-topleft {
+  margin-right: auto;
+  margin-left: 10px;
+  margin-top: 10px;
+}
+
 @media (min-width: 768px) {
   .main-container {
+    width: 100%;
+  }
+  .main-container-topleft {
     width: 100%;
   }
 }
 
 @media (min-width: 992px) {
   .main-container {
+    width: 700px;
+  }
+  .main-container-topleft {
     width: 700px;
   }
 }

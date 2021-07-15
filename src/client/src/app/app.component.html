@@ -1,9 +1,9 @@
 <div class="site-wrapper">
   <div class="site-wrapper-inner">
-    <div class="main-container">
+    <div class="main-container" [ngClass]="{'main-container-topleft':isSearched}">
       <div class="inner cover">
         <div class="row">
-          <app-search-box class="col-lg-12" ></app-search-box>
+          <app-search-box class="col-lg-12" (isSearchedChanged)="moveToSearchedState($event)"></app-search-box>
         </div>
       </div>
     </div>

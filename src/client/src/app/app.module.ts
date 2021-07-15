@@ -6,11 +6,13 @@ import { HttpClientModule } from '@angular/common/http';
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { SearchBoxComponent } from './search-box/search-box.component';
+import { MatchedCardComponent } from './matched-card/matched-card.component';
 
 @NgModule({
   declarations: [
     AppComponent,
-    SearchBoxComponent
+    SearchBoxComponent,
+    MatchedCardComponent
   ],
   imports: [
     BrowserModule,

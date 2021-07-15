@@ -8,6 +8,10 @@ import { Component } from '@angular/core';
 export class AppComponent {
   title = 'client';
 
-  isQueried: boolean = false;
+  isSearched: boolean = false;
 
+  moveToSearchedState(searched: boolean) {
+    this.isSearched = searched;
+    console.log(searched);
+  }
 }

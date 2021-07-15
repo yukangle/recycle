@@ -1,4 +1,4 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, OnInit, Output, EventEmitter } from '@angular/core';
 import { Observable, Subject, of } from 'rxjs';
 import { debounceTime, distinctUntilChanged, switchMap } from 'rxjs/operators';
 import { Router } from '@angular/router';
@@ -14,10 +14,12 @@ export class SearchBoxComponent implements OnInit {
 
   results$!: Observable<Match[]>;
   private searchTerms = new Subject<string>();
+  isSearched: boolean = false;
 
-  constructor(
-    private service: QueryService
-  ) {
+  @Output()
+  protected isSearchedChanged: EventEmitter<boolean> = new EventEmitter();
+
+  constructor(private service: QueryService) {
   }
 
   ngOnInit(): void {
@@ -30,6 +32,10 @@ export class SearchBoxComponent implements OnInit {
 
   search(term: string): any {
     console.log("searching...");
+    if (!this.isSearched) {
+      this.isSearched = true;
+      this.isSearchedChanged.emit(true);
+    }
     this.searchTerms.next(term);
   }
 }
