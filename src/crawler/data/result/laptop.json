@@ -1,0 +1,691 @@
+[
+  {
+    "name": "HP EliteBook 840 G7",
+    "manufacturer": "HP",
+    "model": "EliteBook 840 G7",
+    "issue_time": "2020-07-08T00:00:00-07:00",
+    "score": "9",
+    "plus_and_minus": {
+      "plus": [
+        "The RAM, SSD, battery, and display are easily accessible and removable.",
+        "Almost all moving parts, including the speakers, trackpad, and fan are modular and can be independently replaced.",
+        "All screws are Phillips, and many are identical, preventing damage from accidental misplacement."
+      ]
+    }
+  },
+  {
+    "name": "HP EliteBook x360 830 G7",
+    "manufacturer": "HP",
+    "model": "EliteBook x360 830 G7",
+    "issue_time": "2020-07-08T00:00:00-07:00",
+    "score": "9",
+    "plus_and_minus": {
+      "plus": [
+        "The battery, SSD, RAM, and display are easily accessible and removable.",
+        "Almost all moving parts, including the speakers, trackpad, and fan are modular and can be independently replaced.",
+        "All screws are standard Phillips and Torx, and many are identical, preventing damage from accidental misplacement."
+      ]
+    }
+  },
+  {
+    "name": "EliteBook 800 G5",
+    "manufacturer": "EliteBook",
+    "model": "800 G5",
+    "issue_time": "2020-05-13T00:00:00-07:00",
+    "score": "10",
+    "plus_and_minus": {
+      "plus": [
+        "RAM, SSD, and battery are easily accessible and removable.",
+        "All moving parts, including keyboard, trackpad, and pointing stick are modular and can be independently replaced.",
+        "The display can be quickly and independently replaced without any unnecessary disassembly."
+      ]
+    }
+  },
+  {
+    "name": "HP ProBook 440 G7",
+    "manufacturer": "HP",
+    "model": "ProBook 440 G7",
+    "issue_time": "2020-05-13T00:00:00-07:00",
+    "score": "9",
+    "plus_and_minus": {
+      "plus": [
+        "The RAM, SSD, battery, and display are easily accessible and removable.",
+        "Almost all moving parts, including the HDD, trackpad, and fan are modular and can be independently replaced.",
+        "All screws are standard Phillips and Torx."
+      ]
+    }
+  },
+  {
+    "name": "HP Elitebook x360 1040 G5",
+    "manufacturer": "HP",
+    "model": "Elitebook x360 1040 G5",
+    "issue_time": "2020-05-13T00:00:00-07:00",
+    "score": "6",
+    "plus_and_minus": {
+      "plus": [
+        "SSD and battery are easily accessible and removable.",
+        "Manufacturer provides free user-accessible repair documentation."
+      ],
+      "minus": [
+        "The device relies heavily on tapes, adhesives and fragile clips to secure components, complicating repairs."
+      ]
+    }
+  },
+  {
+    "name": "MacBook Pro 16\" 2019",
+    "manufacturer": "MacBook",
+    "model": "Pro 16\" 2019",
+    "issue_time": "2019-11-18T00:00:00-07:00",
+    "score": "1",
+    "plus_and_minus": {
+      "minus": [
+        "Minor components are modular, but the processor, RAM, and flash memory are soldered to the logic board.",
+        "Glue and/or rivets secure the keyboard, battery, speakers, and Touch Bar, making those components a tricky fix.",
+        "The Touch ID sensor is the power switch and is locked to the logic board, greatly complicating repairs."
+      ]
+    }
+  },
+  {
+    "name": "Microsoft Surface Laptop 3 15\"",
+    "manufacturer": "Microsoft",
+    "model": "Surface Laptop 3 15\"",
+    "issue_time": "2019-10-23T00:00:00-07:00",
+    "score": "5",
+    "plus_and_minus": {
+      "plus": [
+        "The opening procedure is straightforward, with a clever design that represents adramaticimprovement over its predecessors."
+      ],
+      "minus": [
+        "The firmly glued-down battery will be very difficult to service when it inevitably goes kaput."
+      ]
+    }
+  },
+  {
+    "name": "MacBook Pro 13\" Two Thunderbolt Ports 2019",
+    "manufacturer": "MacBook",
+    "model": "Pro 13\" Two Thunderbolt Ports 2019",
+    "issue_time": "2019-07-12T00:00:00-07:00",
+    "score": "2",
+    "plus_and_minus": {
+      "minus": [
+        "Proprietary pentalobe screws continue to be hostile to repair.",
+        "The battery assembly is still very solidly glued into the case, complicating replacement of a consumable.",
+        "Soldered-down RAM limits upgradability and longevity."
+      ]
+    }
+  },
+  {
+    "name": "HP EliteBook x360 830 G5",
+    "manufacturer": "HP",
+    "model": "EliteBook x360 830 G5",
+    "issue_time": "2019-06-22T00:00:00-07:00",
+    "score": "9",
+    "plus_and_minus": {
+      "plus": [
+        "SSD, RAM, and battery are accessible and removable.",
+        "Manufacturer provides free user-accessible repair documentation.",
+        "All screws are standard Phillips and Torx."
+      ]
+    }
+  },
+  {
+    "name": "HP EliteBook 840 G6",
+    "manufacturer": "HP",
+    "model": "EliteBook 840 G6",
+    "issue_time": "2019-06-21T00:00:00-07:00",
+    "score": "10",
+    "plus_and_minus": {
+      "plus": [
+        "The RAM, SSD, and battery are easily accessible and removable.",
+        "All moving parts, including keyboard, trackpad, and pointing stick are modular and can be independently replaced.",
+        "The display can be quickly and independently replaced without any unnecessary disassembly."
+      ]
+    }
+  },
+  {
+    "name": "HP EliteBook 830 x360 G6",
+    "manufacturer": "HP",
+    "model": "EliteBook 830 x360 G6",
+    "issue_time": "2019-06-21T00:00:00-07:00",
+    "score": "9",
+    "plus_and_minus": {
+      "plus": [
+        "SSD, RAM, and battery are accessible and removable.",
+        "Manufacturer provides free user-accessible repair documentation.",
+        "All screws are standard Phillips and Torx."
+      ]
+    }
+  },
+  {
+    "name": "MacBook Pro 15\" Touch Bar 2019",
+    "manufacturer": "MacBook",
+    "model": "Pro 15\" Touch Bar 2019",
+    "issue_time": "2019-05-24T00:00:00-07:00",
+    "score": "1",
+    "plus_and_minus": {
+      "minus": [
+        "The processor, RAM, and flash memory are soldered to the logic board. Repairs and upgrades will be impractical at best.",
+        "The top case assembly, including the keyboard, battery, speakers,andTouch Bar, is glued together\u2014making all those components impractical to replace separately.",
+        "The Touch ID sensor doubles as the power switch, and is paired with the T2 chip on the logic board. Fixing a broken power switch may require help from Apple, or a new logic board."
+      ]
+    }
+  },
+  {
+    "name": "HP EliteBook 1050 G1",
+    "manufacturer": "HP",
+    "model": "EliteBook 1050 G1",
+    "issue_time": "2018-11-27T00:00:00-07:00",
+    "score": "9",
+    "plus_and_minus": {
+      "plus": [
+        "RAM, SSD, and battery are easily accessible and removable.",
+        "All screws are standard Phillips and Torx.",
+        "Manufacturer provides free user-accessible repair documentation."
+      ]
+    }
+  },
+  {
+    "name": "MacBook Air 13\u201d Retina Display Late 2018",
+    "manufacturer": "MacBook",
+    "model": "Air 13\u201d Retina Display Late 2018",
+    "issue_time": "2018-11-08T00:00:00-07:00",
+    "score": "3",
+    "plus_and_minus": {
+      "plus": [
+        "Many components are modular and straightforward to access\u2014including the ports, fan, and speakers."
+      ],
+      "minus": [
+        "The keyboard is integrated into the top case, requiring a full teardown for service.",
+        "Soldered, non-serviceable, non-upgradeable storage and RAM is a serious bummer on a $1,200+ laptop."
+      ]
+    }
+  },
+  {
+    "name": "MacBook Pro 15\" Touch Bar 2018",
+    "manufacturer": "MacBook",
+    "model": "Pro 15\" Touch Bar 2018",
+    "issue_time": "2018-07-17T00:00:00-07:00",
+    "score": "1",
+    "plus_and_minus": {
+      "minus": [
+        "The processor, RAM, and flash memory are soldered to the logic board. Repairs and upgrades will be impractical at best.",
+        "The top case assembly, which includes the keyboard, battery, and speakers, is firmly glued in place\u2014making all those components hard to replace separately.",
+        "The Touch ID sensor doubles as the power switch, and is paired with the T2 chip on the logic board. Fixing a broken power switch may require help from Apple, or a new logic board."
+      ]
+    }
+  },
+  {
+    "name": "MacBook Pro 13\" Touch Bar 2018",
+    "manufacturer": "MacBook",
+    "model": "Pro 13\" Touch Bar 2018",
+    "issue_time": "2018-07-16T00:00:00-07:00",
+    "score": "1",
+    "plus_and_minus": {
+      "minus": [
+        "The processor, RAM,andflash memory are soldered to the logic board. Repairs and upgrades will be impractical at best.",
+        "The top case assembly, which includes the keyboard, battery, and speakers, is glued together\u2014making all those components impractical to replace separately.",
+        "The Touch ID sensor doubles as the power switch, and is paired with the T2 chip on the logic board. Fixing a broken power switch may require help from Apple, or a new logic board."
+      ]
+    }
+  },
+  {
+    "name": "HP EliteBook 840 G3",
+    "manufacturer": "HP",
+    "model": "EliteBook 840 G3",
+    "issue_time": "2017-06-26T00:00:00-07:00",
+    "score": "10",
+    "plus_and_minus": {
+      "plus": [
+        "RAM, SSD, and battery are easily accessible and removable.",
+        "All moving parts, including keyboard, trackpad, and pointing stick are modular and can be quickly replaced.",
+        "The display is immediately replaceable, without any unnecessary disassembly."
+      ]
+    }
+  },
+  {
+    "name": "Dell Latitude E5270",
+    "manufacturer": "Dell",
+    "model": "Latitude E5270",
+    "issue_time": "2017-06-26T00:00:00-07:00",
+    "score": "10",
+    "plus_and_minus": {
+      "plus": [
+        "All commonly failing  (battery, trackpad buttons, display, keyboard) and upgradable (RAM, SSD) parts are easy to access and replace.",
+        "Minimal adhesive is used throughout the unit's construction. All fasteners are standard Phillips screws.",
+        "Overall construction is slightly complicated, but the manufacturer offers clear repair and disassembly instructions."
+      ]
+    }
+  },
+  {
+    "name": "LG Gram 15\"",
+    "manufacturer": "LG",
+    "model": "Gram 15\"",
+    "issue_time": "2017-06-26T00:00:00-07:00",
+    "score": "9",
+    "plus_and_minus": {
+      "plus": [
+        "Most components are immediately accessible after removing the lower case cover.",
+        "RAM and SSD are user-replaceable and parts for upgrades are readily accessible.",
+        "Battery is also user-replaceable."
+      ]
+    }
+  },
+  {
+    "name": "Samsung Series 9 15\"",
+    "manufacturer": "Samsung",
+    "model": "Series 9 15\"",
+    "issue_time": "2017-06-26T00:00:00-07:00",
+    "score": "9",
+    "plus_and_minus": {
+      "plus": [
+        "All screws are Phillips screws.",
+        "RAM, SSD, and battery are all easily replaced.",
+        "Relatively flat, modular design means that most components can be replaced quickly without having to remove other obstructions."
+      ]
+    }
+  },
+  {
+    "name": "Acer Predator 17.3\"",
+    "manufacturer": "Acer",
+    "model": "Predator 17.3\"",
+    "issue_time": "2017-06-26T00:00:00-07:00",
+    "score": "8",
+    "plus_and_minus": {
+      "plus": [
+        "A single latch releases the optical drive\u2014no tools required.",
+        "A single panel gives access to the SSD, HDD, and two RAM slots."
+      ],
+      "minus": [
+        "The keyboard is not readily serviceable."
+      ]
+    }
+  },
+  {
+    "name": "Dell XPS 13",
+    "manufacturer": "Dell",
+    "model": "XPS 13",
+    "issue_time": "2017-06-26T00:00:00-07:00",
+    "score": "7",
+    "plus_and_minus": {
+      "plus": [
+        "Manufacturer provides free manuals online.",
+        "Once you manage to take off the bottom cover, all the parts are pretty easily replaceable."
+      ],
+      "minus": [
+        "Soldered RAM means you'll never be able to upgrade when things get slow."
+      ]
+    }
+  },
+  {
+    "name": "Microsoft Surface Laptop",
+    "manufacturer": "Microsoft",
+    "model": "Surface Laptop",
+    "issue_time": "2017-06-15T00:00:00-07:00",
+    "score": "0",
+    "plus_and_minus": {
+      "minus": [
+        "This laptop is not meant to be opened or repaired; you can\u2019t get inside without inflicting a lot of damage.",
+        "The CPU, RAM, and onboard storage are soldered to the motherboard, making upgrades a no-go.",
+        "The headphone jack, while modular, can only be accessed by removing the heat sink, fan, display, and motherboard."
+      ]
+    }
+  },
+  {
+    "name": "MacBook Pro 13\" Touch Bar 2017",
+    "manufacturer": "MacBook",
+    "model": "Pro 13\" Touch Bar 2017",
+    "issue_time": "2017-06-08T00:00:00-07:00",
+    "score": "1",
+    "plus_and_minus": {
+      "minus": [
+        "Proprietary pentalobe screws continue to make working on the device unnecessarily difficult.",
+        "The battery assembly is entirely, and very solidly, glued into the case, thus complicating replacement.",
+        "The processor, RAM,andflash memory are soldered to the logic board."
+      ]
+    }
+  },
+  {
+    "name": "Retina MacBook 2017",
+    "manufacturer": "Retina",
+    "model": "MacBook 2017",
+    "issue_time": "2017-06-08T00:00:00-07:00",
+    "score": "1",
+    "plus_and_minus": {
+      "minus": [
+        "The processor, RAM, and flash memory arestillsoldered to the logic board.",
+        "A large amount of strong adhesive holds the battery assembly to the lower case .",
+        "The Retina display is a fused unit with no separate, protective glass. If the display is damaged, it'll be arduous and expensive to repair."
+      ]
+    }
+  },
+  {
+    "name": "MacBook Pro 15\" Touch Bar Late 2016",
+    "manufacturer": "MacBook",
+    "model": "Pro 15\" Touch Bar Late 2016",
+    "issue_time": "2016-11-18T00:00:00-07:00",
+    "score": "1",
+    "plus_and_minus": {
+      "minus": [
+        "Use of proprietary pentalobe screws makes servicing and repair unnecessarily difficult.",
+        "The entire battery assembly is strongly glued into the case, complicating replacement.",
+        "The processor, RAM,andflash memory are soldered to the logic board."
+      ]
+    }
+  },
+  {
+    "name": "MacBook Pro 13\" Touch Bar Late 2016",
+    "manufacturer": "MacBook",
+    "model": "Pro 13\" Touch Bar Late 2016",
+    "issue_time": "2016-11-15T00:00:00-07:00",
+    "score": "1",
+    "plus_and_minus": {
+      "minus": [
+        "Proprietary pentalobe screws continue to make working on the device unnecessarily difficult.",
+        "The battery assembly is entirely, and very solidly, glued into the case, thus complicating replacement.",
+        "The processor, RAM,andflash memory are soldered to the logic board."
+      ]
+    }
+  },
+  {
+    "name": "MacBook Pro 13\" Function Keys Late 2016",
+    "manufacturer": "MacBook",
+    "model": "Pro 13\" Function Keys Late 2016",
+    "issue_time": "2016-11-01T00:00:00-07:00",
+    "score": "2",
+    "plus_and_minus": {
+      "minus": [
+        "Proprietary pentalobe screws continue to make opening the device unnecessarily difficult.",
+        "The battery assembly is entirely, and very solidly, glued into the case, thus complicating replacement.",
+        "The RAM is soldered to the logic board. Pay for the upgrade now, or be stuck with 8 GB forever. There is no chance of upgrade."
+      ]
+    }
+  },
+  {
+    "name": "Retina MacBook 2016",
+    "manufacturer": "Retina",
+    "model": "MacBook 2016",
+    "issue_time": "2016-04-24T00:00:00-07:00",
+    "score": "1",
+    "plus_and_minus": {
+      "minus": [
+        "The processor, RAM, and flash memory are still soldered to the logic board.",
+        "The battery assembly remains entirely, and very solidly, glued into the lower case.",
+        "The Retina display is still a fused unit with no separate, protective glass. If the display needs replacing, it'll cost a pretty penny."
+      ]
+    }
+  },
+  {
+    "name": "Asus Chromebook C202",
+    "manufacturer": "Asus",
+    "model": "Chromebook C202",
+    "issue_time": "2016-03-24T00:00:00-07:00",
+    "score": "9",
+    "plus_and_minus": {
+      "plus": [
+        "Intuitive, uncomplicated design makes disassembly straightforward and reversible.",
+        "Modular components means many repairs can be carried out by quickly swapping a failed part.",
+        "Only Phillips #1 and #00 screws are used."
+      ]
+    }
+  },
+  {
+    "name": "Retina MacBook 2015",
+    "manufacturer": "Retina",
+    "model": "MacBook 2015",
+    "issue_time": "2015-04-14T00:00:00-07:00",
+    "score": "1",
+    "plus_and_minus": {
+      "minus": [
+        "Proprietary pentalobe screws continue to make opening the device unnecessarily difficult, and new cable routing makes the procedure even trickier.",
+        "The USB-C port is secured by tri-wing screws, and buried under the display brackets, complicating replacement. Also, being the only port, it will experience more use and wear than a typical single-purpose port.",
+        "The battery assembly is entirely, and very solidly, glued into the lower case."
+      ]
+    }
+  },
+  {
+    "name": "MacBook Pro 13\" Retina Display Early 2015",
+    "manufacturer": "MacBook",
+    "model": "Pro 13\" Retina Display Early 2015",
+    "issue_time": "2015-03-11T00:00:00-07:00",
+    "score": "1",
+    "plus_and_minus": {
+      "minus": [
+        "Proprietary pentalobe screws continue to make opening the device unnecessarily difficult.",
+        "The battery assembly is entirely, and very solidly, glued into the case, thus complicating replacement. Additionally, the battery covers the screws holding the trackpad in place, meaning it's impossible to replace the trackpad without first removing the battery.",
+        "The Retina display is a fused unit with no separate, protective glass. If anything ever fails inside the display, the entire ($$$) assembly will need to be replaced."
+      ]
+    }
+  },
+  {
+    "name": "MacBook Air 13\" Early 2015",
+    "manufacturer": "MacBook",
+    "model": "Air 13\" Early 2015",
+    "issue_time": "2015-03-10T00:00:00-07:00",
+    "score": "4",
+    "plus_and_minus": {
+      "plus": [
+        "Once you manage to take off the bottom cover, all the parts are pretty easily replaceable."
+      ],
+      "minus": [
+        "Proprietary screws on the case require the right screwdriver.",
+        "All the components\u2014including RAM and SSD\u2014are proprietary."
+      ]
+    }
+  },
+  {
+    "name": "MacBook Air 11\" Early 2015",
+    "manufacturer": "MacBook",
+    "model": "Air 11\" Early 2015",
+    "issue_time": "2015-03-10T00:00:00-07:00",
+    "score": "4",
+    "plus_and_minus": {
+      "plus": [
+        "Once you get past the outer case, all the major components are fairly easy to access for replacement."
+      ],
+      "minus": [
+        "The outer case is held on with Apple's proprietary Pentalobe screws, so you'll need the right screwdriver to get inside.",
+        "Just like the screws, all the components\u2014including the RAM and SSD\u2014are proprietary, making replacement parts more difficult to source."
+      ]
+    }
+  },
+  {
+    "name": "MacBook Pro 13\" Retina Display Late 2013",
+    "manufacturer": "MacBook",
+    "model": "Pro 13\" Retina Display Late 2013",
+    "issue_time": "2013-10-25T00:00:00-07:00",
+    "score": "1",
+    "plus_and_minus": {
+      "minus": [
+        "Proprietary pentalobe screws continue to make opening the device unnecessarily difficult.",
+        "The battery assembly is now entirely, and very solidly, glued into the case, thus complicating replacement. Additionally, the battery now covers the screws and cable holding the trackpad in place. It is impossible to replace the trackpad without first removing the battery.",
+        "The Retina display is a fused unit with no protective glass. If anything ever fails inside the display, the entire ($$$) assembly will need to be replaced."
+      ]
+    }
+  },
+  {
+    "name": "MacBook Pro 15\" Retina Display Late 2013",
+    "manufacturer": "MacBook",
+    "model": "Pro 15\" Retina Display Late 2013",
+    "issue_time": "2013-10-24T00:00:00-07:00",
+    "score": "1",
+    "plus_and_minus": {
+      "minus": [
+        "Proprietary pentalobe screws prevent you from gaining access to anything inside.",
+        "As in the MacBook Air, the RAM is soldered to the logic board. Max out at 16GB now, or forever hold your peace\u2014you can't upgrade.",
+        "The proprietary SSD has changed to a PCIe format, but still isn't a standard 2.5\" drive. However, it is a separate daughtercard, and we\u2019re hopeful we can offer an upgrade in the near future."
+      ]
+    }
+  },
+  {
+    "name": "MacBook Air 11\" Mid 2013",
+    "manufacturer": "MacBook",
+    "model": "Air 11\" Mid 2013",
+    "issue_time": "2013-06-13T00:00:00-07:00",
+    "score": "4",
+    "plus_and_minus": {
+      "plus": [
+        "Once you get past the outer case, all the major components are fairly easy to access for replacement."
+      ],
+      "minus": [
+        "The outer case is held on with Apple's proprietary Pentalobe screws, so you'll need the right screwdriver to get inside.",
+        "Just like the screws, all the components\u2014including the RAM and SSD\u2014are proprietary, making replacement parts more difficult to source."
+      ]
+    }
+  },
+  {
+    "name": "MacBook Air 13\" Mid 2013",
+    "manufacturer": "MacBook",
+    "model": "Air 13\" Mid 2013",
+    "issue_time": "2013-06-11T00:00:00-07:00",
+    "score": "4",
+    "plus_and_minus": {
+      "plus": [
+        "Once you manage to take off the bottom cover, all the parts are pretty easily replaceable."
+      ],
+      "minus": [
+        "Proprietary screws on the case require the right screwdriver.",
+        "All the components\u2014including RAM and SSD\u2014are proprietary."
+      ]
+    }
+  },
+  {
+    "name": "Dell Inspiron Duo",
+    "manufacturer": "Dell",
+    "model": "Inspiron Duo",
+    "issue_time": "2013-05-16T00:00:00-07:00",
+    "score": "7",
+    "plus_and_minus": {
+      "plus": [
+        "Much of the internal hardware is not only user-replaceable, but is also easy purchased from Dell or a third party vendor.",
+        "Almost the entire computer can be taken apart with a plastic opening tool (or two) and a Phillips #0 screwdriver."
+      ],
+      "minus": [
+        "You have to remove the top case to access the  battery, which is shameful for a Dell product."
+      ]
+    }
+  },
+  {
+    "name": "MacBook Pro 13\" Retina Display Late 2012",
+    "manufacturer": "MacBook",
+    "model": "Pro 13\" Retina Display Late 2012",
+    "issue_time": "2012-10-25T00:00:00-07:00",
+    "score": "2",
+    "plus_and_minus": {
+      "minus": [
+        "The battery is still glued into the laptop's top case, but it's slightly less difficult to remove compared to the15\" model.",
+        "Proprietary pentalobe screws prevent you from gaining access to anything inside.",
+        "The RAM is surface-mount soldered to the logic board, so no upgrade is possible. It will forever have 8 GB of RAM."
+      ]
+    }
+  },
+  {
+    "name": "Asus Zenbook UX32VD",
+    "manufacturer": "Asus",
+    "model": "Zenbook UX32VD",
+    "issue_time": "2012-08-16T00:00:00-07:00",
+    "score": "8",
+    "plus_and_minus": {
+      "plus": [
+        "All the components are easy to access, with no proprietary screws inhibiting access.",
+        "The battery is not glued in place, and a person equipped with the right tools can replace it in a matter of minutes."
+      ],
+      "minus": [
+        "A lot of components were held in place with more adhesive than is necessary."
+      ]
+    }
+  },
+  {
+    "name": "MacBook Pro 15\" Unibody Mid 2012",
+    "manufacturer": "MacBook",
+    "model": "Pro 15\" Unibody Mid 2012",
+    "issue_time": "2012-06-20T00:00:00-07:00",
+    "score": "7",
+    "plus_and_minus": {
+      "plus": [
+        "Easily removable bottom panel and readily accessible battery, optical drive, hard drive, fans, and RAM.",
+        "Standard screws were used for all components, save for the battery."
+      ],
+      "minus": [
+        "Tri-wing screws on the battery require a specialty driver that an average user may not have."
+      ]
+    }
+  },
+  {
+    "name": "MacBook Pro 15\" Retina Display Mid 2012",
+    "manufacturer": "MacBook",
+    "model": "Pro 15\" Retina Display Mid 2012",
+    "issue_time": "2012-06-13T00:00:00-07:00",
+    "score": "1",
+    "plus_and_minus": {
+      "minus": [
+        "Proprietary pentalobe screws prevent you from gaining access to anything inside.",
+        "As in the MacBook Air, the RAM is soldered to the logic board. Max out at 16GB now, or forever hold your peace\u2014you can't upgrade.",
+        "The proprietary SSD isn't upgradeable either (yet), as it is similar but not identical to the one in the Air. It is a separate daughtercard, and we\u2019re hopeful we can offer an upgrade in the near future."
+      ]
+    }
+  },
+  {
+    "name": "MacBook Air 13\" Mid 2012",
+    "manufacturer": "MacBook",
+    "model": "Air 13\" Mid 2012",
+    "issue_time": "2012-06-12T00:00:00-07:00",
+    "score": "4",
+    "plus_and_minus": {
+      "plus": [
+        "Once you manage to take off the bottom cover, all the parts are pretty easily replaceable."
+      ],
+      "minus": [
+        "Proprietary screws on the case require the right screwdriver.",
+        "All the components\u2014including RAM and SSD\u2014are proprietary."
+      ]
+    }
+  },
+  {
+    "name": "MacBook Air 13\" Mid 2011",
+    "manufacturer": "MacBook",
+    "model": "Air 13\" Mid 2011",
+    "issue_time": "2011-07-21T00:00:00-07:00",
+    "score": "4",
+    "plus_and_minus": {
+      "plus": [
+        "Once you manage to take off the bottom cover, all the parts are pretty easily replaceable."
+      ],
+      "minus": [
+        "Opening the bottom cover is quite difficult if you don't have the right screwdriver. It's clear that Apple didn't want people to open their machine.",
+        "All the components -- including RAM and SSD -- are proprietary, meaning that no off-the-shelf parts will work in it without serious rigging."
+      ]
+    }
+  },
+  {
+    "name": "MacBook Pro 15\" Unibody Early 2011",
+    "manufacturer": "MacBook",
+    "model": "Pro 15\" Unibody Early 2011",
+    "issue_time": "2011-02-24T00:00:00-07:00",
+    "score": "7",
+    "plus_and_minus": {
+      "plus": [
+        "Easily removable bottom panel and readily accessible battery connector allow for easy repair of most components without touching the battery screws.",
+        "Unibody design allows for easy access of most components with minimal amounts of extra work needed to get to them."
+      ],
+      "minus": [
+        "Tri-wing screws limit the average person from replacing their own battery."
+      ]
+    }
+  },
+  {
+    "name": "MacBook Air 11\" Late 2010",
+    "manufacturer": "MacBook",
+    "model": "Air 11\" Late 2010",
+    "issue_time": "2010-10-21T00:00:00-07:00",
+    "score": "4",
+    "plus_and_minus": {
+      "plus": [
+        "Once you manage to take off the bottom cover, all the parts are pretty easily replaceable."
+      ],
+      "minus": [
+        "Opening the bottom cover is quite difficult if you don't have the right screwdriver. It's clear that Apple didn't want people to open their machine.",
+        "All the components -- including RAM and hard drive -- are proprietary, meaning that no off-the-shelf parts will work in it without serious rigging."
+      ]
+    }
+  }
+]

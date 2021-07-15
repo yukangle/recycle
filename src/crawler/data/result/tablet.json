@@ -1,0 +1,903 @@
+[
+  {
+    "name": "Microsoft Surface Pro X",
+    "manufacturer": "Microsoft",
+    "model": "Surface Pro X",
+    "issue_time": "2019-11-07T00:00:00-07:00",
+    "score": "6",
+    "plus_and_minus": {
+      "plus": [
+        "The user-removable SSD makes for easy upgrades and data security that doesn't require device destruction.",
+        "To the extent that screws are used, they are all standard Torx fasteners."
+      ],
+      "minus": [
+        "The battery is firmly glued in place, with its connector pinned under the motherboard\u2014requiring near-total disassembly for service."
+      ]
+    }
+  },
+  {
+    "name": "iPad 7",
+    "manufacturer": "iPad",
+    "model": "7",
+    "issue_time": "2019-09-26T00:00:00-07:00",
+    "score": "2",
+    "plus_and_minus": {
+      "minus": [
+        "As with all iPads, a solid barrier of very strong adhesive hinders all repairs.",
+        "The Lightning port, a common point of failure, is soldered to the logic board.",
+        "More adhesive holds nearly everything else in place. Battery and logic board replacements are particularly obnoxious."
+      ]
+    }
+  },
+  {
+    "name": "Elite x2 G4",
+    "manufacturer": "Elite",
+    "model": "x2 G4",
+    "issue_time": "2019-06-21T00:00:00-07:00",
+    "score": "9",
+    "plus_and_minus": {
+      "plus": [
+        "All screws are standard Torx or Phillips\u2014only three drivers are needed for complete disassembly.",
+        "Easy access to repair documentation and replacement parts by HP makes self-repair more feasible.",
+        "A modular and flat construction allows access to most components early on."
+      ]
+    }
+  },
+  {
+    "name": "HP Elite x2 1012 G2",
+    "manufacturer": "HP",
+    "model": "Elite x2 1012 G2",
+    "issue_time": "2019-06-18T00:00:00-07:00",
+    "score": "9",
+    "plus_and_minus": {
+      "plus": [
+        "All screws are standard T5 Torx, Phillips #1, or Phillips #0.",
+        "Manufacturer providedrepair documentationtakes the guesswork out of repair.",
+        "Removing the battery, display, and system board is relatively straightforward and does not require fighting against adhesive"
+      ]
+    }
+  },
+  {
+    "name": "iPad Air 3",
+    "manufacturer": "iPad",
+    "model": "Air 3",
+    "issue_time": "2019-04-03T00:00:00-07:00",
+    "score": "2",
+    "plus_and_minus": {
+      "minus": [
+        "Battery replacement is possible, but still unnecessarily difficult.",
+        "Gobs of adhesive hold many parts and cables in place, complicating all repairs."
+      ]
+    }
+  },
+  {
+    "name": "iPad Mini 5",
+    "manufacturer": "iPad",
+    "model": "Mini 5",
+    "issue_time": "2019-04-02T00:00:00-07:00",
+    "score": "2",
+    "plus_and_minus": {
+      "minus": [
+        "Battery replacement is possible, but still unnecessarily difficult.",
+        "Gobs of adhesive hold many parts and cables in place, complicating all repairs.",
+        "Removing the home button is tough, and will be required for display replacement if you want to keep Touch ID functionality."
+      ]
+    }
+  },
+  {
+    "name": "Elite X2 1013 G3",
+    "manufacturer": "Elite",
+    "model": "X2 1013 G3",
+    "issue_time": "2018-11-27T00:00:00-07:00",
+    "score": "9",
+    "plus_and_minus": {
+      "plus": [
+        "All screws are standard Torx or Phillips.",
+        "Easy access to repair documentation and replacement parts by HP makes self-repair more feasible."
+      ]
+    }
+  },
+  {
+    "name": "iPad Pro 11\"",
+    "manufacturer": "iPad",
+    "model": "Pro 11\"",
+    "issue_time": "2018-11-12T00:00:00-07:00",
+    "score": "3",
+    "plus_and_minus": {
+      "plus": [
+        "The USB-C port is modular and can be independently replaced."
+      ],
+      "minus": [
+        "Gobs of adhesive hold most everything in place, making all repairs more difficult."
+      ]
+    }
+  },
+  {
+    "name": "Microsoft Surface Pro 6",
+    "manufacturer": "Microsoft",
+    "model": "Surface Pro 6",
+    "issue_time": "2018-10-17T00:00:00-07:00",
+    "score": "1",
+    "plus_and_minus": {
+      "minus": [
+        "All repairs require first removing the display assembly\u2014which is stubbornly glued in place, expensive, and prone to shattering.",
+        "The battery is firmly glued in place, with its connector pinned under the motherboard\u2014requiring near-total disassembly for service.",
+        "Once upon a time, Surface Pro storage was removable\u2014but not in this version."
+      ]
+    }
+  },
+  {
+    "name": "iPad 6",
+    "manufacturer": "iPad",
+    "model": "6",
+    "issue_time": "2018-04-02T00:00:00-07:00",
+    "score": "2",
+    "plus_and_minus": {
+      "minus": [
+        "As in all iPads, a solid barrier of very strong adhesive bars the way to any repairs, and makes rework a sticky proposition.",
+        "More adhesive holds nearly everything else in place. Battery replacement is particularly challenging.",
+        "The LCD has foam sticky tape adhering it to the front panel, increasing risk of damage during disassembly."
+      ]
+    }
+  },
+  {
+    "name": "Acer Iconia One 7",
+    "manufacturer": "Acer",
+    "model": "Iconia One 7",
+    "issue_time": "2017-06-26T00:00:00-07:00",
+    "score": "8",
+    "plus_and_minus": {
+      "plus": [
+        "LCD and front glass are not fused and can be replaced individually.",
+        "Battery is easy to replace."
+      ],
+      "minus": [
+        "High wear components soldered in place, which increases replacement costs."
+      ]
+    }
+  },
+  {
+    "name": "Kindle Paperwhite 3rd Generation",
+    "manufacturer": "Kindle",
+    "model": "Paperwhite 3rd Generation",
+    "issue_time": "2017-06-26T00:00:00-07:00",
+    "score": "8",
+    "plus_and_minus": {
+      "plus": [
+        "The battery was very easy to remove.",
+        "All screws were Phillips #00 screws."
+      ],
+      "minus": [
+        "Thin layer of adhesive that needed to broken in order to remove the bezel and access the internal components."
+      ]
+    }
+  },
+  {
+    "name": "Huawei MediaPad M2",
+    "manufacturer": "Huawei",
+    "model": "MediaPad M2",
+    "issue_time": "2017-06-26T00:00:00-07:00",
+    "score": "7",
+    "plus_and_minus": {
+      "plus": [
+        "The display is easily removed from the simple clips holding it to the body, simplifying repairs.",
+        "Most components are modular and not overly complex."
+      ],
+      "minus": [
+        "The battery is extremely difficult to remove, even with heat and prying."
+      ]
+    }
+  },
+  {
+    "name": "Amazon Fire 5th Generation",
+    "manufacturer": "Amazon",
+    "model": "Fire 5th Generation",
+    "issue_time": "2017-06-26T00:00:00-07:00",
+    "score": "7",
+    "plus_and_minus": {
+      "plus": [
+        "The plastic case assembly is held together by clips and no adhesive, and opening only requires prying with an iFixit opening tool.",
+        "The digitizer and LCD panel are not fused together."
+      ],
+      "minus": [
+        "Removing the digitizer and LCD panel requires fighting through some very resilient adhesive."
+      ]
+    }
+  },
+  {
+    "name": "HP ElitePad 1000 G2 Teardown",
+    "manufacturer": "HP",
+    "model": "ElitePad 1000 G2 Teardown",
+    "issue_time": "2017-06-26T00:00:00-07:00",
+    "score": "7",
+    "plus_and_minus": {
+      "plus": [
+        "Display is easy to remove and has no adhesive.",
+        "Most commonly-failing components, including all the ports and buttons and  are modular and can be replaced quickly."
+      ],
+      "minus": [
+        "RAM and SSD are soldered to the motherboard and non-upgradable."
+      ]
+    }
+  },
+  {
+    "name": "Huawei MediaPad T2",
+    "manufacturer": "Huawei",
+    "model": "MediaPad T2",
+    "issue_time": "2017-06-26T00:00:00-07:00",
+    "score": "6",
+    "plus_and_minus": {
+      "plus": [
+        "Rear case is secured by clips, not glue, and is flexible enough to remove fairly easily.",
+        "Non-proprietary Phillips screws used throughout."
+      ],
+      "minus": [
+        "Battery is held in place with excessive adhesive. A hole in the midframe means prying the battery out may risk damaging the back of the display."
+      ]
+    }
+  },
+  {
+    "name": "Sony Xperia Z4 Tablet",
+    "manufacturer": "Sony",
+    "model": "Xperia Z4 Tablet",
+    "issue_time": "2017-06-26T00:00:00-07:00",
+    "score": "5",
+    "plus_and_minus": {
+      "plus": [
+        "Many parts are modular and can be replaced independently."
+      ],
+      "minus": [
+        "The delicate and arduous opening procedure leaves no room for mistakes, and must be completed to access any other component.",
+        "The display assembly consists of a thin fused glass panel and LCD, and is extremely difficult to remove and replace."
+      ]
+    }
+  },
+  {
+    "name": "Samsung Galaxy Tab S3",
+    "manufacturer": "Samsung",
+    "model": "Galaxy Tab S3",
+    "issue_time": "2017-06-26T00:00:00-07:00",
+    "score": "4",
+    "plus_and_minus": {
+      "plus": [
+        "Many components (including the headphone jack, speakers, and micro SD slot) are modular and can be replaced."
+      ],
+      "minus": [
+        "In order to repair or replace anything, both the front and rear panel need to be removed.",
+        "The front and rear panel are secured in place with a lot of adhesive, and are extremely hard to remove."
+      ]
+    }
+  },
+  {
+    "name": "Microsoft Surface Pro 5",
+    "manufacturer": "Microsoft",
+    "model": "Surface Pro 5",
+    "issue_time": "2017-06-15T00:00:00-07:00",
+    "score": "1",
+    "plus_and_minus": {
+      "minus": [
+        "Adhesive holds many components in place, including the display and battery.",
+        "Replacement of any part requires removal of the display assembly, an easy part to damage.",
+        "The SSD is no longer replaceable."
+      ]
+    }
+  },
+  {
+    "name": "iPad Pro 10.5\"",
+    "manufacturer": "iPad",
+    "model": "Pro 10.5\"",
+    "issue_time": "2017-06-13T00:00:00-07:00",
+    "score": "2",
+    "plus_and_minus": {
+      "minus": [
+        "The fused front panel increases the cost of screen repair, and the risk of damaging the LCD when opening.",
+        "Gobs of adhesive hold everything in place, making all repairs more difficult."
+      ]
+    }
+  },
+  {
+    "name": "LG G Pad 7.0",
+    "manufacturer": "LG",
+    "model": "G Pad 7.0",
+    "issue_time": "2017-04-06T00:00:00-07:00",
+    "score": "8",
+    "plus_and_minus": {
+      "plus": [
+        "Very modular design allows independent replacement of several wear-prone components\u2014like the headphone jack and speakers.",
+        "Only very mild adhesive holds the battery in place, making it fairly easy to safely remove and replace."
+      ],
+      "minus": [
+        "Display assembly is a single fused component, that requires disassembling the entire phone to replace."
+      ]
+    }
+  },
+  {
+    "name": "iPad 5 Wi-Fi",
+    "manufacturer": "iPad",
+    "model": "5 Wi-Fi",
+    "issue_time": "2017-03-30T00:00:00-07:00",
+    "score": "2",
+    "plus_and_minus": {
+      "minus": [
+        "Just like in previous iPads, the front panel is glued to the rest of the device, greatly increasing the chances of cracking the glass during a repair.",
+        "Gobs of adhesive hold everything in place. As with its Air 1 predecessor, this ranks among the most difficult battery removal procedures we've seen in an iPad.",
+        "The LCD has foam sticky tape adhering it to the front panel, increasing chances of it being shattered during disassembly."
+      ]
+    }
+  },
+  {
+    "name": "HP Pro x2 612 G2",
+    "manufacturer": "HP",
+    "model": "Pro x2 612 G2",
+    "issue_time": "2017-02-26T00:00:00-07:00",
+    "score": "9",
+    "plus_and_minus": {
+      "plus": [
+        "Manufacturer-provided repair documentation.",
+        "Easy opening procedure."
+      ],
+      "minus": [
+        "Intricate construction allows for modularity but makes repair more complex than necessary."
+      ]
+    }
+  },
+  {
+    "name": "Google Pixel C",
+    "manufacturer": "Google",
+    "model": "Pixel C",
+    "issue_time": "2016-05-18T00:00:00-07:00",
+    "score": "4",
+    "plus_and_minus": {
+      "plus": [
+        "Many parts, including the USB-C port, are modular and can be replaced independently."
+      ],
+      "minus": [
+        "The motherboard is glued tightly to the rear case.",
+        "Crazy strong adhesive holds the battery to the rear case, complicating the inevitable replacement."
+      ]
+    }
+  },
+  {
+    "name": "HP Elite x2",
+    "manufacturer": "HP",
+    "model": "Elite x2",
+    "issue_time": "2016-05-01T00:00:00-07:00",
+    "score": "10",
+    "plus_and_minus": {
+      "plus": [
+        "Easy opening procedure.",
+        "Simple, modular, glue-free design.",
+        "Manufacturer-provided repair documentation."
+      ]
+    }
+  },
+  {
+    "name": "iPad Pro 9.7\"",
+    "manufacturer": "iPad",
+    "model": "Pro 9.7\"",
+    "issue_time": "2016-04-03T00:00:00-07:00",
+    "score": "2",
+    "plus_and_minus": {
+      "minus": [
+        "The fused front panel increases the cost of screen repair, and the risk of damaging the LCD when opening.",
+        "Gobs of adhesive hold everything in place making all repairs more difficult."
+      ]
+    }
+  },
+  {
+    "name": "iPad Pro 12.9\"",
+    "manufacturer": "iPad",
+    "model": "Pro 12.9\"",
+    "issue_time": "2015-11-11T00:00:00-07:00",
+    "score": "3",
+    "plus_and_minus": {
+      "plus": [
+        "The battery is not soldered to the logic board, and can now be removed with adhesive tabs, greatly simplifying battery removal."
+      ],
+      "minus": [
+        "The fused front panel increases the cost of screen repair, and the risk of damaging the LCD when opening.",
+        "Gobs of adhesive hold everything in place making all repairs more difficult."
+      ]
+    }
+  },
+  {
+    "name": "Microsoft Surface Pro 4",
+    "manufacturer": "Microsoft",
+    "model": "Surface Pro 4",
+    "issue_time": "2015-10-26T00:00:00-07:00",
+    "score": "2",
+    "plus_and_minus": {
+      "minus": [
+        "The display assembly consists of a fused glass panel and LCD, and is difficult to remove and replace.",
+        "Adhesive holds many components in place, including the display and battery."
+      ]
+    }
+  },
+  {
+    "name": "iPad mini 4 Wi-Fi",
+    "manufacturer": "iPad",
+    "model": "mini 4 Wi-Fi",
+    "issue_time": "2015-09-17T00:00:00-07:00",
+    "score": "2",
+    "plus_and_minus": {
+      "minus": [
+        "The fused front panel also increases the cost of repairing a cracked screen, and increases risk of damage to the LCD when opening.",
+        "The Lightning connector is soldered to the logic board, so don't bend its pins.",
+        "Gobs of adhesive hold everything in place making all repairs more difficult."
+      ]
+    }
+  },
+  {
+    "name": "Kindle Voyage",
+    "manufacturer": "Kindle",
+    "model": "Voyage",
+    "issue_time": "2014-11-14T00:00:00-07:00",
+    "score": "7",
+    "plus_and_minus": {
+      "plus": [
+        "Several modular components can be replaced individually.",
+        "Screws secure a slide-off rear case, simplifying opening procedure compared to other Kindles."
+      ],
+      "minus": [
+        "The front glass and e-ink display are fused together, increasing the cost of repairs."
+      ]
+    }
+  },
+  {
+    "name": "Nexus 9",
+    "manufacturer": "Nexus",
+    "model": "9",
+    "issue_time": "2014-11-04T00:00:00-07:00",
+    "score": "3",
+    "plus_and_minus": {
+      "plus": [
+        "The rear case is secured with clips, so it can be easily removed without heat or tools (just don't lose your rear-facing camera)."
+      ],
+      "minus": [
+        "The interior is a maze of tape and thin, delicate cables, making disassembly and reassembly difficult and perilous.",
+        "The LCD is fused to the front glass, so you'll need to replace both components in the event of a cracked screen."
+      ]
+    }
+  },
+  {
+    "name": "iPad Mini 3 Wi-Fi",
+    "manufacturer": "iPad",
+    "model": "Mini 3 Wi-Fi",
+    "issue_time": "2014-10-24T00:00:00-07:00",
+    "score": "2",
+    "plus_and_minus": {
+      "minus": [
+        "Copious amounts of adhesive hold many components in place\u2014front glass, battery, front camera, back camera, ribbon cables\u2014making repair extremely difficult.",
+        "The Lightning connector is soldered to the logic board, so don't bend its pins.",
+        "Removing the home button is now a much more difficult job. If you want to keep Touch ID functionality after a screen replacement, you'll have to transfer the home button to the new front panel."
+      ]
+    }
+  },
+  {
+    "name": "iPad Air 2",
+    "manufacturer": "iPad",
+    "model": "Air 2",
+    "issue_time": "2014-10-22T00:00:00-07:00",
+    "score": "2",
+    "plus_and_minus": {
+      "minus": [
+        "The fused front panel also increases the cost of repairing a cracked screen, and increases risk of damage to the LCD when opening.",
+        "Just like in previous iPads, the front panel is glued to the rest of the device, greatly increasing the chances of cracking the glass during a repair.",
+        "Gobs of adhesive hold everything in place making all repairs more difficult."
+      ]
+    }
+  },
+  {
+    "name": "Kindle 7th Generation",
+    "manufacturer": "Kindle",
+    "model": "7th Generation",
+    "issue_time": "2014-10-08T00:00:00-07:00",
+    "score": "8",
+    "plus_and_minus": {
+      "plus": [
+        "Simple, modular design with few, distinct components that can be replaced independently.",
+        "Easy opening procedure\u2014clips supplemented by mild adhesive are all that hold the front bezel in place."
+      ],
+      "minus": [
+        "Battery adhesive is much stronger than necessary, making its replacement hazardous."
+      ]
+    }
+  },
+  {
+    "name": "Kindle Fire HD 6",
+    "manufacturer": "Kindle",
+    "model": "Fire HD 6",
+    "issue_time": "2014-10-08T00:00:00-07:00",
+    "score": "6",
+    "plus_and_minus": {
+      "plus": [
+        "The rear case is very easy to open, granting trouble-free access to the internals.",
+        "All the fasteners found inside are T5 Torx screws\u2014one non-proprietary screwdriver is all you need."
+      ],
+      "minus": [
+        "The glass panel is fused to the front plastic frame, meaning a heat gun is required for replacing cracked glass (or you have to replace both components together)."
+      ]
+    }
+  },
+  {
+    "name": "Microsoft Surface Pro 3",
+    "manufacturer": "Microsoft",
+    "model": "Surface Pro 3",
+    "issue_time": "2014-06-23T00:00:00-07:00",
+    "score": "1",
+    "plus_and_minus": {
+      "minus": [
+        "The display assembly consists of a fused glass panel and LCD, and is extremely difficult to remove and replace.",
+        "Tons of adhesive hold everything in place, including the display and battery.",
+        "The delicate and arduous opening procedure leaves no room for mistakes: one slip-up, and you'll be out a screen."
+      ]
+    }
+  },
+  {
+    "name": "iPad Mini 2",
+    "manufacturer": "iPad",
+    "model": "Mini 2",
+    "issue_time": "2013-11-13T00:00:00-07:00",
+    "score": "2",
+    "plus_and_minus": {
+      "minus": [
+        "Copious amounts of adhesive hold many components in place\u2014front glass, battery, front camera, back camera, ribbon cables\u2014making repair extremely difficult.",
+        "The Lightning connector is soldered to the logic board, so don't bend its pins.",
+        "Hidden screws mean you'll need to be very diligent when trying to remove internal components."
+      ]
+    }
+  },
+  {
+    "name": "Amazon Kindle Fire HDX 8.9\"",
+    "manufacturer": "Amazon",
+    "model": "Kindle Fire HDX 8.9\"",
+    "issue_time": "2013-11-07T00:00:00-07:00",
+    "score": "7",
+    "plus_and_minus": {
+      "plus": [
+        "Front panel is held in place with clips.",
+        "Modular design allows replacement of several components."
+      ],
+      "minus": [
+        "Battery is glued and difficult to remove."
+      ]
+    }
+  },
+  {
+    "name": "iPad Air LTE",
+    "manufacturer": "iPad",
+    "model": "Air LTE",
+    "issue_time": "2013-11-01T00:00:00-07:00",
+    "score": "2",
+    "plus_and_minus": {
+      "minus": [
+        "Just like in previous iPads, the front panel is glued to the rest of the device, greatly increasing the chances of cracking the glass during a repair.",
+        "Gobs, gobs, and goblins of adhesive hold everything in place. This is the most difficult battery removal procedure we've seen in an iPad.",
+        "The LCD has foam sticky tape adhering it to the front panel, increasing chances of it being shattered during disassembly."
+      ]
+    }
+  },
+  {
+    "name": "Microsoft Surface Pro 2",
+    "manufacturer": "Microsoft",
+    "model": "Surface Pro 2",
+    "issue_time": "2013-10-22T00:00:00-07:00",
+    "score": "1",
+    "plus_and_minus": {
+      "minus": [
+        "The display assembly consists of a fused glass panel and LCD, and is extremely difficult to remove and replace.",
+        "Tons of adhesive hold everything in place, including the display and battery.",
+        "The delicate and arduous opening procedure leaves no room for mistakes: one slip-up, and you'll likely shear one of the four ribbon cables in the edge of the display."
+      ]
+    }
+  },
+  {
+    "name": "Kindle Fire HDX 7\"",
+    "manufacturer": "Kindle",
+    "model": "Fire HDX 7\"",
+    "issue_time": "2013-10-14T00:00:00-07:00",
+    "score": "3",
+    "plus_and_minus": {
+      "plus": [
+        "Several modular components can be replaced individually."
+      ],
+      "minus": [
+        "The battery is glued in place with strong adhesive and requires motherboard removal to replace.",
+        "The motherboard is very difficult to replace\u2014the midframe must be separated from the display assembly in order to reinstall it."
+      ]
+    }
+  },
+  {
+    "name": "Kindle Fire HD 2013",
+    "manufacturer": "Kindle",
+    "model": "Fire HD 2013",
+    "issue_time": "2013-10-02T00:00:00-07:00",
+    "score": "8",
+    "plus_and_minus": {
+      "plus": [
+        "Simple, modular design means the few components that might fail can be easily, inexpensively replaced.",
+        "All the fasteners found inside are Torx T5 screws\u2014one non-proprietary screwdriver is all you need."
+      ],
+      "minus": [
+        "A decent amount of adhesive is used on the battery, meaning some prying and gentle working is required for disassembly."
+      ]
+    }
+  },
+  {
+    "name": "Dell XPS 10",
+    "manufacturer": "Dell",
+    "model": "XPS 10",
+    "issue_time": "2013-08-30T00:00:00-07:00",
+    "score": "9",
+    "plus_and_minus": {
+      "plus": [
+        "Easy to open. Easy to remove battery.",
+        "Color-coded screws and labeled cables inside."
+      ],
+      "minus": [
+        "LCD is fused to the glass."
+      ]
+    }
+  },
+  {
+    "name": "Microsoft Surface Pro",
+    "manufacturer": "Microsoft",
+    "model": "Surface Pro",
+    "issue_time": "2013-02-13T00:00:00-07:00",
+    "score": "1",
+    "plus_and_minus": {
+      "minus": [
+        "The display assembly (comprising of a fused glass and LCD) is extremely difficult to remove/replace.",
+        "Tons of adhesive hold everything in place, including the display and battery.",
+        "Unless you perform the opening procedure 100% correctly, chances are you'll shear one of the four cables surrounding the display perimeter."
+      ]
+    }
+  },
+  {
+    "name": "Amazon Kindle Fire HD 8.9\"",
+    "manufacturer": "Amazon",
+    "model": "Kindle Fire HD 8.9\"",
+    "issue_time": "2012-11-20T00:00:00-07:00",
+    "score": "5",
+    "plus_and_minus": {
+      "plus": [
+        "With just a few clips, the device is very easy to open."
+      ],
+      "minus": [
+        "Heat gun is needed for fused LCD and front glass.",
+        "Battery and cables are adhered to case."
+      ]
+    }
+  },
+  {
+    "name": "Google Nexus 10",
+    "manufacturer": "Google",
+    "model": "Nexus 10",
+    "issue_time": "2012-11-13T00:00:00-07:00",
+    "score": "6",
+    "plus_and_minus": {
+      "plus": [
+        "Easily removable battery. LCD is not fused to glass."
+      ],
+      "minus": [
+        "The opening procedure is a very difficult process.",
+        "Several components are attached by both screws and glue."
+      ]
+    }
+  },
+  {
+    "name": "iPad Mini Wi-Fi",
+    "manufacturer": "iPad",
+    "model": "Mini Wi-Fi",
+    "issue_time": "2012-11-01T00:00:00-07:00",
+    "score": "2",
+    "plus_and_minus": {
+      "minus": [
+        "Copious amounts of adhesive hold many components in place -- front glass, logic board, battery, front camera, back camera, ribbon cables -- making repair extremely difficult.",
+        "The Lightning connector is soldered to the logic board, so don't bend its pins.",
+        "Hidden screws mean you'll need to be very diligent when trying to remove internal components."
+      ]
+    }
+  },
+  {
+    "name": "iPad 4 Wi-Fi",
+    "manufacturer": "iPad",
+    "model": "4 Wi-Fi",
+    "issue_time": "2012-11-01T00:00:00-07:00",
+    "score": "2",
+    "plus_and_minus": {
+      "minus": [
+        "Just like in the iPad 2 & 3, the front panel is glued to the rest of the device, greatly increasing the chances of cracking the glass when trying to remove it.",
+        "Gobs, gobs, and gobs of adhesive hold everything in place, including the prone-to-start-a-fire-if-punctured battery.",
+        "The LCD has foam sticky tape adhering it to the front panel, increasing chances of it being shattered during disassembly."
+      ]
+    }
+  },
+  {
+    "name": "Microsoft Surface",
+    "manufacturer": "Microsoft",
+    "model": "Surface",
+    "issue_time": "2012-10-28T00:00:00-07:00",
+    "score": "4",
+    "plus_and_minus": {
+      "plus": [
+        "Several components are modular and replaceable without requiring desoldering."
+      ],
+      "minus": [
+        "It's pretty difficult to remove the rear panel and gain access to the device.",
+        "It is impossible to remove the keyboard connector without first removing the display from the frame."
+      ]
+    }
+  },
+  {
+    "name": "Kindle Fire HD",
+    "manufacturer": "Kindle",
+    "model": "Fire HD",
+    "issue_time": "2012-09-16T00:00:00-07:00",
+    "score": "7",
+    "plus_and_minus": {
+      "plus": [
+        "The rear case is very easy to open, granting trouble-free access to the internals.",
+        "The battery is held in with absolutely no adhesive."
+      ],
+      "minus": [
+        "Copper tape over the processor is somewhat difficult to remove and to readhere correctly."
+      ]
+    }
+  },
+  {
+    "name": "Nexus 7",
+    "manufacturer": "Nexus",
+    "model": "7",
+    "issue_time": "2012-07-03T00:00:00-07:00",
+    "score": "7",
+    "plus_and_minus": {
+      "plus": [
+        "The rear case is very easy to open, and requires minimal prying effort with a plastic opening tool to remove.",
+        "All fasteners inside are Phillips #00 screws\u2014no security or proprietary screws here."
+      ],
+      "minus": [
+        "The LCD does not separate from the display glass, increasing repair costs."
+      ]
+    }
+  },
+  {
+    "name": "Nook Simple Touch with GlowLight",
+    "manufacturer": "Nook",
+    "model": "Simple Touch with GlowLight",
+    "issue_time": "2012-05-30T00:00:00-07:00",
+    "score": "7",
+    "plus_and_minus": {
+      "plus": [
+        "The opening procedure was very simple, and aside from the massive amounts of adhesive, every part came free rather easily.",
+        "There were a total of only 12 screws (all T5 Torx), 11 of which were the same length."
+      ],
+      "minus": [
+        "The front glass, GlowLight LEDs, and digitizer are fused together, so breaking any of these parts will require replacement of the entire display assembly."
+      ]
+    }
+  },
+  {
+    "name": "Samsung Galaxy Tab 2 7.0",
+    "manufacturer": "Samsung",
+    "model": "Galaxy Tab 2 7.0",
+    "issue_time": "2012-04-22T00:00:00-07:00",
+    "score": "8",
+    "plus_and_minus": {
+      "plus": [
+        "Modular design and easy-to-remove components.",
+        "Front glass is not fused to the LCD."
+      ],
+      "minus": [
+        "Heat gun is needed to replace the LCD."
+      ]
+    }
+  },
+  {
+    "name": "iPad 3 4G",
+    "manufacturer": "iPad",
+    "model": "3 4G",
+    "issue_time": "2012-03-15T00:00:00-07:00",
+    "score": "2",
+    "plus_and_minus": {
+      "minus": [
+        "Just like the iPad 2, the front panel is glued to the rest of the device, greatly increasing the chances of cracking the glass when trying to remove it.",
+        "Gobs, gobs, and gobs of adhesive hold down everything in place, including the prone-to-start-a-fire-if-punctured battery.",
+        "The LCD has foam sticky tape adhering it to the front panel, increasing chances of the front panel being shattered during disassembly"
+      ]
+    }
+  },
+  {
+    "name": "Nook Tablet",
+    "manufacturer": "Nook",
+    "model": "Tablet",
+    "issue_time": "2011-11-21T00:00:00-07:00",
+    "score": "6",
+    "plus_and_minus": {
+      "plus": [
+        "The LCD is not fused to the front panel assembly, making replacement easy, if necessary."
+      ],
+      "minus": [
+        "Excessive amount of adhesive and adhesive strips make disassembly a painfully tedious process."
+      ]
+    }
+  },
+  {
+    "name": "Kindle Fire",
+    "manufacturer": "Kindle",
+    "model": "Fire",
+    "issue_time": "2011-11-15T00:00:00-07:00",
+    "score": "8",
+    "plus_and_minus": {
+      "plus": [
+        "The rear case is very easy to open, granting trouble-free access to the internals.",
+        "All the fasteners found inside are Phillips #0 screws\u2014one non-proprietary screwdriver is all you need."
+      ],
+      "minus": [
+        "The glass panel is fused to the front plastic frame, meaning a heat gun is required for replacing cracked glass (or you have to replace both components together)."
+      ]
+    }
+  },
+  {
+    "name": "iPad 2 Wi-Fi EMC 2415",
+    "manufacturer": "iPad",
+    "model": "2 Wi-Fi EMC 2415",
+    "issue_time": "2011-03-11T00:00:00-07:00",
+    "score": "2",
+    "plus_and_minus": {
+      "minus": [
+        "The front panel is now glued to the rest of the device, greatly increasing the chances of cracking the glass when trying to remove it.",
+        "The LCD has foam sticky tape adhering it to the front panel, increasing chances of it being shattered during disassembly.",
+        "The battery is very securely stuck down to rear case, and you have to remove the logic board to remove it."
+      ]
+    }
+  },
+  {
+    "name": "Motorola Xoom",
+    "manufacturer": "Motorola",
+    "model": "Xoom",
+    "issue_time": "2011-02-25T00:00:00-07:00",
+    "score": "8",
+    "plus_and_minus": {
+      "plus": [
+        "There's no proprietary screws or fasteners in the machine -- everything comes out with a spudger and a couple of Torx screwdrivers.",
+        "LCD and front panel glass are not fused together. That's great news for folks unfortunate enough to drop their Xooms and crack their glass."
+      ],
+      "minus": [
+        "Everything is accessible but somewhat inconvenient to repair -- there's just a lot of labor involved with removing that many screws."
+      ]
+    }
+  },
+  {
+    "name": "Dell Streak",
+    "manufacturer": "Dell",
+    "model": "Streak",
+    "issue_time": "2010-08-18T00:00:00-07:00",
+    "score": "8",
+    "plus_and_minus": {
+      "plus": [
+        "Good: Replacing the battery is super easy and takes less than one minute.",
+        "Good: Opening the device requires prying the bezels and removing five screws."
+      ],
+      "minus": [
+        "Bad: The LCD is bonded to the Gorilla Glass, increasing the cost of fixing the device if you break just the glass."
+      ]
+    }
+  },
+  {
+    "name": "iPad Wi-Fi",
+    "manufacturer": "iPad",
+    "model": "Wi-Fi",
+    "issue_time": "2010-03-24T00:00:00-07:00",
+    "score": "6",
+    "plus_and_minus": {
+      "plus": [
+        "Front panel is held in place with clips.",
+        "LCD is not fused to the display glass."
+      ],
+      "minus": [
+        "Battery is difficult to remove and replace."
+      ]
+    }
+  }
+]

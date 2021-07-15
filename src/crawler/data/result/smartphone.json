@@ -1,0 +1,1867 @@
+[
+  {
+    "name": "Mi 11",
+    "manufacturer": "Mi",
+    "model": "11",
+    "issue_time": "2021-03-14T00:00:00-07:00",
+    "score": "4",
+    "plus_and_minus": {
+      "plus": [
+        "Only one standard Phillips screwdriver is needed."
+      ],
+      "minus": [
+        "The glass body makes drop damage more likely, and the curved glass requires special tools or is likely to break during repairs.",
+        "To replace the in-display fingerprint sensor, you'll need to remove the whole display\u2014which can result in a broken screen."
+      ]
+    }
+  },
+  {
+    "name": "Huawei Mate 40 Pro",
+    "manufacturer": "Huawei",
+    "model": "Mate 40 Pro",
+    "issue_time": "2020-12-07T00:00:00-07:00",
+    "score": "4",
+    "plus_and_minus": {
+      "plus": [
+        "Huawei uses standard Phillips screws throughout the phone."
+      ],
+      "minus": [
+        "Glass on front and back doubles the likelihood of drop damage.",
+        "The display adhesive is insanely strong."
+      ]
+    }
+  },
+  {
+    "name": "iPhone 12 Pro Max",
+    "manufacturer": "iPhone",
+    "model": "12 Pro Max",
+    "issue_time": "2020-11-21T00:00:00-07:00",
+    "score": "6",
+    "plus_and_minus": {
+      "plus": [
+        "Screen and battery remain prioritized and reasonably accessible for replacement.",
+        "Most components are fairly modular and replaceable."
+      ],
+      "minus": [
+        "The glass back makes drops even more dangerous and requires a full case replacement if it breaks."
+      ]
+    }
+  },
+  {
+    "name": "iPhone 12 mini",
+    "manufacturer": "iPhone",
+    "model": "12 mini",
+    "issue_time": "2020-11-13T00:00:00-07:00",
+    "score": "6",
+    "plus_and_minus": {
+      "plus": [
+        "The two most common smartphone repairs\u2014display and battery\u2014are well-prioritized here.",
+        "Most major components are modular enough to be accessed/replaced independently."
+      ],
+      "minus": [
+        "Glass covering the rear housing is fragile and impractical to replace\u2014a single drop could necessitate replacing the entire body of the iPhone."
+      ]
+    }
+  },
+  {
+    "name": "iPhone 12 Pro",
+    "manufacturer": "iPhone",
+    "model": "12 Pro",
+    "issue_time": "2020-10-20T00:00:00-07:00",
+    "score": "6",
+    "plus_and_minus": {
+      "plus": [
+        "Display and battery replacements remain a priority in the new iPhones' design.",
+        "Most other important components are modular and easy to access or replace."
+      ],
+      "minus": [
+        "Glass on front and back doubles the likelihood of drop damage\u2014and if the back glass breaks, you'll be removingeverycomponent and replacing the entire chassis."
+      ]
+    }
+  },
+  {
+    "name": "Microsoft Surface Duo",
+    "manufacturer": "Microsoft",
+    "model": "Surface Duo",
+    "issue_time": "2020-09-11T00:00:00-07:00",
+    "score": "2",
+    "plus_and_minus": {
+      "minus": [
+        "Batteries are glued and require extensive disassembly to service.",
+        "The USB-C port is soldered directly to the main board.",
+        "Uncommon tri-point screws secure key components."
+      ]
+    }
+  },
+  {
+    "name": "Google Pixel 4a",
+    "manufacturer": "Google",
+    "model": "Pixel 4a",
+    "issue_time": "2020-08-31T00:00:00-07:00",
+    "score": "6",
+    "plus_and_minus": {
+      "plus": [
+        "Most components are modular and independently replaceable.",
+        "Repair-friendly stretch-release adhesive secures the battery, and is easy to release successfully."
+      ]
+    }
+  },
+  {
+    "name": "Samsung Galaxy Note 20 Ultra",
+    "manufacturer": "Samsung",
+    "model": "Galaxy Note 20 Ultra",
+    "issue_time": "2020-08-24T00:00:00-07:00",
+    "score": "3",
+    "plus_and_minus": {
+      "plus": [
+        "You'll only need one screwdriver, a standard Phillips."
+      ],
+      "minus": [
+        "Battery replacement remains far too difficult for a consumable component.",
+        "Screen repairs are tedious, poorly prioritized, and unnecessarily expensive."
+      ]
+    }
+  },
+  {
+    "name": "iPhone SE 2020",
+    "manufacturer": "iPhone",
+    "model": "SE 2020",
+    "issue_time": "2020-04-27T00:00:00-07:00",
+    "score": "6",
+    "plus_and_minus": {
+      "plus": [
+        "The two most commonly replaced components, display and battery, remain straightforward to access with the proper knowledge and tools.",
+        "Most components are modular and independently replaceable, including many that are cross-compatible with iPhone 8."
+      ],
+      "minus": [
+        "The fragile glass back is impractical to replace."
+      ]
+    }
+  },
+  {
+    "name": "Samsung Galaxy A51",
+    "manufacturer": "Samsung",
+    "model": "Galaxy A51",
+    "issue_time": "2020-04-01T00:00:00-07:00",
+    "score": "4",
+    "plus_and_minus": {
+      "plus": [
+        "A single Phillips driver takes care of all the screws."
+      ],
+      "minus": [
+        "Screen repairs require a lot of disassembly while battling tough adhesive."
+      ]
+    }
+  },
+  {
+    "name": "Samsung Galaxy S20 Ultra",
+    "manufacturer": "Samsung",
+    "model": "Galaxy S20 Ultra",
+    "issue_time": "2020-03-04T00:00:00-07:00",
+    "score": "3",
+    "plus_and_minus": {
+      "plus": [
+        "The fasteners, all identical Phillips screws, only require one driver and can't be mixed up, simplifying repair."
+      ],
+      "minus": [
+        "Every repair starts with painstakingly un-gluing the fragile glass rear cover.",
+        "Replacing the glued-down battery is tougher than ever, especially with board interconnect cables to work around."
+      ]
+    }
+  },
+  {
+    "name": "Samsung Galaxy Z Flip",
+    "manufacturer": "Samsung",
+    "model": "Galaxy Z Flip",
+    "issue_time": "2020-02-18T00:00:00-07:00",
+    "score": "2",
+    "plus_and_minus": {
+      "minus": [
+        "Glued-down glass panels are an unnecessary barrier to entry for repairs, especially given the phone's lack of ingress protection.",
+        "Battery replacements are possible, but unnecessarily difficult due to poorly-routed cables and the lack of stretch-release adhesive.",
+        "The components involved in the folding process are likely to wear over time (even if you don't bathe them in purple dust), necessitating eventual replacement."
+      ]
+    }
+  },
+  {
+    "name": "Motorola razr",
+    "manufacturer": "Motorola",
+    "model": "razr",
+    "issue_time": "2020-02-13T00:00:00-07:00",
+    "score": "1",
+    "plus_and_minus": {
+      "minus": [
+        "Every repair starts (and ends) with stubborn, glued-on outer covers.",
+        "Replacing the battery\u2014or rather,batteries\u2014requires near-total disassembly.",
+        "The charging port is soldered directly to the main board."
+      ]
+    }
+  },
+  {
+    "name": "Google Pixel 4 XL",
+    "manufacturer": "Google",
+    "model": "Pixel 4 XL",
+    "issue_time": "2019-10-24T00:00:00-07:00",
+    "score": "4",
+    "plus_and_minus": {
+      "plus": [
+        "All screws are standard T3 Torx fasteners."
+      ],
+      "minus": [
+        "Display repairs continue to be difficult, requiring complete disassembly of the phone.",
+        "All repairs require access through the stubbornly-glued back panel."
+      ]
+    }
+  },
+  {
+    "name": "iPhone 11",
+    "manufacturer": "iPhone",
+    "model": "11",
+    "issue_time": "2019-10-14T00:00:00-07:00",
+    "score": "6",
+    "plus_and_minus": {
+      "plus": [
+        "The prioritized display makes replacement of this critical component easier than in other devices.",
+        "Display swaps don\u2019t require too much hardware swapping to maintain Face ID."
+      ],
+      "minus": [
+        "Front and back glass doubles the chances of breakage, and the rear glass can only be fully replaced with a complete housing swap."
+      ]
+    }
+  },
+  {
+    "name": "iPhone 11 Pro Max",
+    "manufacturer": "iPhone",
+    "model": "11 Pro Max",
+    "issue_time": "2019-09-12T00:00:00-07:00",
+    "score": "6",
+    "plus_and_minus": {
+      "plus": [
+        "Critical display and battery repairs remain a priority in the iPhone's design.",
+        "The battery procedure has been simplified and many components are accessible independently."
+      ],
+      "minus": [
+        "Glass on front and back doubles the likelihood of drop damage\u2014and if the back glass breaks, you'll be removingeverycomponent and replacing the entire chassis."
+      ]
+    }
+  },
+  {
+    "name": "Fairphone 3",
+    "manufacturer": "Fairphone",
+    "model": "3",
+    "issue_time": "2019-09-11T00:00:00-07:00",
+    "score": "10",
+    "plus_and_minus": {
+      "plus": [
+        "Key components like the battery and screen have been prioritized in the design and are accessible either without tools or just a regular Phillips screwdriver.",
+        "Visual cues inside the phone help with disassembling and replacing its parts and modules.",
+        "Replacing complete modules is very easy. Going for their internal parts is also possible and requires a Torx screwdriver."
+      ]
+    }
+  },
+  {
+    "name": "Samsung Galaxy Note10 Plus 5G",
+    "manufacturer": "Samsung",
+    "model": "Galaxy Note10 Plus 5G",
+    "issue_time": "2019-08-21T00:00:00-07:00",
+    "score": "3",
+    "plus_and_minus": {
+      "plus": [
+        "Equally-sized Phillips fasteners means you only need to bring one driver for repairs."
+      ],
+      "minus": [
+        "Every repair starts with painstakingly un-gluing the fragile glass rear cover.",
+        "Replacing the glued-down battery is tougher than ever, especially with board interconnect cables to work around."
+      ]
+    }
+  },
+  {
+    "name": "Shift 6m",
+    "manufacturer": "Shift",
+    "model": "6m",
+    "issue_time": "2019-08-19T00:00:00-07:00",
+    "score": "9",
+    "plus_and_minus": {
+      "plus": [
+        "Battery and screen repairs are prioritized.",
+        "Only one type of screw head and length are used throughout the phone.",
+        "The manufacturer provides a few repair guides, and a screwdriver is shipped with the phone."
+      ]
+    }
+  },
+  {
+    "name": "Huawei Mate 20 X 5G",
+    "manufacturer": "Huawei",
+    "model": "Mate 20 X 5G",
+    "issue_time": "2019-07-25T00:00:00-07:00",
+    "score": "4",
+    "plus_and_minus": {
+      "plus": [
+        "Many components are modular and can be replaced independently."
+      ],
+      "minus": [
+        "Glued-down front and back glass means greater risk of breakage, while making all repairs difficult to start.",
+        "Screen repairs will require near-complete disassembly."
+      ]
+    }
+  },
+  {
+    "name": "Google Pixel 3a",
+    "manufacturer": "Google",
+    "model": "Pixel 3a",
+    "issue_time": "2019-05-09T00:00:00-07:00",
+    "score": "6",
+    "plus_and_minus": {
+      "plus": [
+        "Most components are modular and can be easily replaced once the display assembly is removed.",
+        "Repair-friendly stretch-release adhesive secures the battery."
+      ],
+      "minus": [
+        "The myriad long, thin ribbon cables connecting the internal componentry can be obnoxious to work around, and are easy to accidentally tear."
+      ]
+    }
+  },
+  {
+    "name": "Google Pixel 3a XL",
+    "manufacturer": "Google",
+    "model": "Pixel 3a XL",
+    "issue_time": "2019-05-09T00:00:00-07:00",
+    "score": "6",
+    "plus_and_minus": {
+      "plus": [
+        "Most components are modular and can be easily replaced once the display assembly is removed.",
+        "Repair-friendly stretch-release adhesive secures the battery."
+      ],
+      "minus": [
+        "The myriad long, thin ribbon cables connecting the internal componentry can be obnoxious to work around, and are easy to accidentally tear."
+      ]
+    }
+  },
+  {
+    "name": "Samsung Galaxy Fold",
+    "manufacturer": "Samsung",
+    "model": "Galaxy Fold",
+    "issue_time": "2019-04-24T00:00:00-07:00",
+    "score": "2",
+    "plus_and_minus": {
+      "minus": [
+        "The mechanics involved in the fold are likely to wear over time, causing stress to hinges and display, necessitating eventual replacement.",
+        "The fragility of the main display means you'll almost certainly be replacing it before long\u2014a pricey repair.",
+        "Battery replacements are possible, but unnecessarily difficult\u2014solvents help, but risk damage to the display supports."
+      ]
+    }
+  },
+  {
+    "name": "Samsung Galaxy S10",
+    "manufacturer": "Samsung",
+    "model": "Galaxy S10",
+    "issue_time": "2019-03-06T00:00:00-07:00",
+    "score": "3",
+    "plus_and_minus": {
+      "plus": [
+        "A single Phillips driver takes care of all the screws."
+      ],
+      "minus": [
+        "Battery replacement is possible, but still unnecessarily difficult.",
+        "Glued-down glass both front and back means greater risk of breakage, and makes repairs difficult to start."
+      ]
+    }
+  },
+  {
+    "name": "Huawei Mate 20 Pro",
+    "manufacturer": "Huawei",
+    "model": "Mate 20 Pro",
+    "issue_time": "2018-11-05T00:00:00-07:00",
+    "score": "4",
+    "plus_and_minus": {
+      "plus": [
+        "Many components are modular and can be replaced independently."
+      ],
+      "minus": [
+        "Glued-down front and back glass means greater risk of breakage while making repairs difficult to start.",
+        "Screen repairs require a lot of disassembly while battling tough adhesive."
+      ]
+    }
+  },
+  {
+    "name": "iPhone XR",
+    "manufacturer": "iPhone",
+    "model": "XR",
+    "issue_time": "2018-10-26T00:00:00-07:00",
+    "score": "6",
+    "plus_and_minus": {
+      "plus": [
+        "The display-first opening procedure and easy access to the battery remain design priorities.",
+        "A broken display can be replaced with minimal hardware removal, and with a little care you can preserve Face ID."
+      ],
+      "minus": [
+        "Glass on front and back doubles the crackability\u2014and broken back glass requires an entire chassis replacement."
+      ]
+    }
+  },
+  {
+    "name": "Google Pixel 3 XL",
+    "manufacturer": "Google",
+    "model": "Pixel 3 XL",
+    "issue_time": "2018-10-16T00:00:00-07:00",
+    "score": "4",
+    "plus_and_minus": {
+      "plus": [
+        "The only screws are standard T3 Torx fasteners."
+      ],
+      "minus": [
+        "Display repairs are much more difficult than previous models, requiring complete disassembly of the phone.",
+        "To service any component, you'll have to painstakingly un-glue (and later re-glue) the glass rear panel."
+      ]
+    }
+  },
+  {
+    "name": "Google Pixel 3",
+    "manufacturer": "Google",
+    "model": "Pixel 3",
+    "issue_time": "2018-10-16T00:00:00-07:00",
+    "score": "4",
+    "plus_and_minus": {
+      "plus": [
+        "The only screws are standard T3 Torx fasteners."
+      ],
+      "minus": [
+        "Display repairs are much more difficult than previous models, requiring complete disassembly of the phone.",
+        "To service any component, you'll have to painstakingly un-glue (and later re-glue) the glass rear panel."
+      ]
+    }
+  },
+  {
+    "name": "iPhone XS",
+    "manufacturer": "iPhone",
+    "model": "XS",
+    "issue_time": "2018-09-21T00:00:00-07:00",
+    "score": "6",
+    "plus_and_minus": {
+      "plus": [
+        "Critical display and battery repairs remain a priority in the iPhone's design.",
+        "A broken display can be replaced without removing the biometric Face ID hardware."
+      ],
+      "minus": [
+        "Glass on front and back doubles the likelihood of drop damage\u2014and if the back glass breaks, you'll be removingeverycomponent and replacing the entire chassis."
+      ]
+    }
+  },
+  {
+    "name": "LG G7 Thin Q",
+    "manufacturer": "LG",
+    "model": "G7 Thin Q",
+    "issue_time": "2018-06-01T00:00:00-07:00",
+    "score": "4",
+    "plus_and_minus": {
+      "plus": [
+        "Lots of components are modular and can be replaced independently."
+      ],
+      "minus": [
+        "Front and back glass make for double the crackability, and strong adhesive on both makes it tough to access the internals for any repair.",
+        "Screen repair, the most common type repair, is not prioritized, requiring an almost complete disassembly while battling tough adhesive."
+      ]
+    }
+  },
+  {
+    "name": "OnePlus 6",
+    "manufacturer": "OnePlus",
+    "model": "6",
+    "issue_time": "2018-05-22T00:00:00-07:00",
+    "score": "5",
+    "plus_and_minus": {
+      "plus": [
+        "The battery can be accessed almost the moment you open the phone, and is only lightly adhered in place. Plus, there's a convenient pull tab."
+      ],
+      "minus": [
+        "Display replacement, the most common repair, is not prioritized in the design and will take a lot of work.",
+        "Front and back glass means twice the risk of cracks\u2014without even the benefit of wireless charging."
+      ]
+    }
+  },
+  {
+    "name": "Huawei P20 Pro",
+    "manufacturer": "Huawei",
+    "model": "P20 Pro",
+    "issue_time": "2018-03-27T00:00:00-07:00",
+    "score": "4",
+    "plus_and_minus": {
+      "plus": [
+        "Many components are modular and can be replaced independently."
+      ],
+      "minus": [
+        "Double the risk for breakage with glass front and back.",
+        "Replacing the screen requires going through at least two layers of adhesive and some disassembly."
+      ]
+    }
+  },
+  {
+    "name": "Samsung Galaxy S9 Plus",
+    "manufacturer": "Samsung",
+    "model": "Galaxy S9 Plus",
+    "issue_time": "2018-03-16T00:00:00-07:00",
+    "score": "4",
+    "plus_and_minus": {
+      "plus": [
+        "Many components are modular and can be replaced independently."
+      ],
+      "minus": [
+        "Glued-down glass both front and back means greater risk of breakage, and makes repairs difficult to start.",
+        "Screen repairs require a lot of disassembly while battling tough adhesive."
+      ]
+    }
+  },
+  {
+    "name": "Samsung Galaxy S9",
+    "manufacturer": "Samsung",
+    "model": "Galaxy S9",
+    "issue_time": "2018-03-16T00:00:00-07:00",
+    "score": "4",
+    "plus_and_minus": {
+      "plus": [
+        "Many components are modular and can be replaced independently."
+      ],
+      "minus": [
+        "Glued-down glass both front and back means greater risk of breakage, and makes repairs difficult to start.",
+        "Screen repairs require a lot of disassembly while battling tough adhesive."
+      ]
+    }
+  },
+  {
+    "name": "iPhone X",
+    "manufacturer": "iPhone",
+    "model": "X",
+    "issue_time": "2017-11-03T00:00:00-07:00",
+    "score": "6",
+    "plus_and_minus": {
+      "plus": [
+        "Display and battery repairs remain a priority in the iPhone's design.",
+        "A cracked display can be replaced without removing the biometric Face ID hardware."
+      ],
+      "minus": [
+        "Fussy cables tie unrelated components together into complex assemblies\u2014expensive and troublesome to replace."
+      ]
+    }
+  },
+  {
+    "name": "Google Pixel 2 XL",
+    "manufacturer": "Google",
+    "model": "Pixel 2 XL",
+    "issue_time": "2017-10-19T00:00:00-07:00",
+    "score": "6",
+    "plus_and_minus": {
+      "plus": [
+        "Many components are modular and can be replaced once the display assembly is removed.",
+        "All of the screws are common Phillips #00 screws, and there are only 9 of them."
+      ],
+      "minus": [
+        "The battery's loss of pull-tab adhesive, plus tightly walled-in placement, makes it much harder to remove."
+      ]
+    }
+  },
+  {
+    "name": "Google Pixel 2",
+    "manufacturer": "Google",
+    "model": "Pixel 2",
+    "issue_time": "2017-10-17T00:00:00-07:00",
+    "score": "6",
+    "plus_and_minus": {
+      "plus": [
+        "Front panel is fairly easy to remove and replace.",
+        "Standard screws used throughout."
+      ],
+      "minus": [
+        "Cable placement makes battery removal more difficult than necessary."
+      ]
+    }
+  },
+  {
+    "name": "Huawei Mate 10 Pro",
+    "manufacturer": "Huawei",
+    "model": "Mate 10 Pro",
+    "issue_time": "2017-10-16T00:00:00-07:00",
+    "score": "4",
+    "plus_and_minus": {
+      "plus": [
+        "Despite the IP67-rated seals, the back cover is fairly easy to open."
+      ],
+      "minus": [
+        "A damaged  front camera means switching the whole display including the frame, or damaging the display while trying to remove it.",
+        "And replacing the display\u2014the most common repair\u2014means taking out almost every component."
+      ]
+    }
+  },
+  {
+    "name": "iPhone 8",
+    "manufacturer": "iPhone",
+    "model": "8",
+    "issue_time": "2017-09-22T00:00:00-07:00",
+    "score": "6",
+    "plus_and_minus": {
+      "plus": [
+        "The two most commonly replaced components, display and battery, remain straightforward to access with the proper knowledge and tools.",
+        "The addition of wireless charging means less strain on your Lightning port, a common point of failure."
+      ],
+      "minus": [
+        "The durability of the glass back remains to be seen\u2014but replacements are likely to be very difficult."
+      ]
+    }
+  },
+  {
+    "name": "iPhone 8 Plus",
+    "manufacturer": "iPhone",
+    "model": "8 Plus",
+    "issue_time": "2017-09-22T00:00:00-07:00",
+    "score": "6",
+    "plus_and_minus": {
+      "plus": [
+        "The display and battery are straightforward to access\u2014with the proper knowledge and tools.",
+        "Wireless charging means less wear on the all-purpose Lightning port, a common point of failure."
+      ],
+      "minus": [
+        "Despite alleged durability, the back glass is breakable and next to impossible to replace when cracked."
+      ]
+    }
+  },
+  {
+    "name": "Samsung Galaxy Note8",
+    "manufacturer": "Samsung",
+    "model": "Galaxy Note8",
+    "issue_time": "2017-09-15T00:00:00-07:00",
+    "score": "4",
+    "plus_and_minus": {
+      "plus": [
+        "Many components, including all of those that experience wear, are modular and can be replaced independently."
+      ],
+      "minus": [
+        "All repairs require removing the glass rear panel, which is challenging due to the large amount of adhesive.",
+        "Replacing the display requires removing the glass rear panel and the display, both of which are fragile and secured with strong adhesive."
+      ]
+    }
+  },
+  {
+    "name": "Essential Phone",
+    "manufacturer": "Essential",
+    "model": "Phone",
+    "issue_time": "2017-08-01T00:00:00-07:00",
+    "score": "1",
+    "plus_and_minus": {
+      "minus": [
+        "The USB-C port is soldered to the motherboard, and with no headphone jack it'll be subject to extra wear.",
+        "Nearly invisible seams and copious adhesive means any attempt at repair is likely to inflict as much damage as it fixes.",
+        "Did we mention we had to freeze it?"
+      ]
+    }
+  },
+  {
+    "name": "Samsung Galaxy Note Fan Edition",
+    "manufacturer": "Samsung",
+    "model": "Galaxy Note Fan Edition",
+    "issue_time": "2017-07-07T00:00:00-07:00",
+    "score": "4",
+    "plus_and_minus": {
+      "plus": [
+        "Many components are modular and can be replaced independently."
+      ],
+      "minus": [
+        "Front and back glass make for double the crackability, and strong adhesive on the rear glass makes it very difficult to gain entry into the device.",
+        "Because of the curved screen, replacing the front glass without destroying the display is probably impossible."
+      ]
+    }
+  },
+  {
+    "name": "OnePlus 5",
+    "manufacturer": "OnePlus",
+    "model": "5",
+    "issue_time": "2017-06-20T00:00:00-07:00",
+    "score": "7",
+    "plus_and_minus": {
+      "plus": [
+        "There are no proprietary screws.",
+        "The OnePlus 5\u2019s display is held on by easy to dispatch reusable plastic clips."
+      ],
+      "minus": [
+        "The display and glass are fused and the home button is integrated into the display assembly making repair of all three of these parts more complicated and expensive."
+      ]
+    }
+  },
+  {
+    "name": "Samsung Galaxy S8 Plus",
+    "manufacturer": "Samsung",
+    "model": "Galaxy S8 Plus",
+    "issue_time": "2017-04-17T00:00:00-07:00",
+    "score": "4",
+    "plus_and_minus": {
+      "plus": [
+        "Many components are modular and can be replaced independently."
+      ],
+      "minus": [
+        "Front and back glass make for double the crackability, and strong adhesive on both makes it tough to access the internals for any repair.",
+        "Because of the curved screen, replacing the front glass without destroying the display is extremely difficult."
+      ]
+    }
+  },
+  {
+    "name": "Samsung Galaxy S8",
+    "manufacturer": "Samsung",
+    "model": "Galaxy S8",
+    "issue_time": "2017-04-17T00:00:00-07:00",
+    "score": "4",
+    "plus_and_minus": {
+      "plus": [
+        "Lots of components are modular and can be replaced independently."
+      ],
+      "minus": [
+        "Front and back glass make for double the crackability, and strong adhesive on both makes it tough to access the internals for any repair.",
+        "Because of the curved screen, replacing the front glass without destroying the display is extremely difficult."
+      ]
+    }
+  },
+  {
+    "name": "LG G6",
+    "manufacturer": "LG",
+    "model": "G6",
+    "issue_time": "2017-04-07T00:00:00-07:00",
+    "score": "5",
+    "plus_and_minus": {
+      "plus": [
+        "Many components are modular and can be replaced independently."
+      ],
+      "minus": [
+        "Front and back glass doubles the crackability, and strong adhesive on both makes it tough to begin any repair.",
+        "Components adhered to the back of a fused display assembly."
+      ]
+    }
+  },
+  {
+    "name": "Huawei Mate 9",
+    "manufacturer": "Huawei",
+    "model": "Mate 9",
+    "issue_time": "2016-11-03T00:00:00-07:00",
+    "score": "5",
+    "plus_and_minus": {
+      "plus": [
+        "Most of the components\u2014like both camera units, the loudspeaker, and the USB board\u2014can be replaced. Even the proximity sensor and the NFC antenna are modular."
+      ],
+      "minus": [
+        "Replacing a broken display, one of the most common repairs, will be one of the most difficult ones on this phablet."
+      ]
+    }
+  },
+  {
+    "name": "Google Pixel XL",
+    "manufacturer": "Google",
+    "model": "Pixel XL",
+    "issue_time": "2016-10-20T00:00:00-07:00",
+    "score": "7",
+    "plus_and_minus": {
+      "plus": [
+        "Many components are modular and can easily be replaced once the display assembly is removed.",
+        "The battery has a removal tab and is adhered by a modest amount of adhesive, making its removal painless."
+      ],
+      "minus": [
+        "The opening procedure requires prying up a thin, poorly-supported display assembly making it difficult to open the phone without damage."
+      ]
+    }
+  },
+  {
+    "name": "Google Pixel",
+    "manufacturer": "Google",
+    "model": "Pixel",
+    "issue_time": "2016-10-20T00:00:00-07:00",
+    "score": "7",
+    "plus_and_minus": {
+      "plus": [
+        "The battery is secured with removable adhesive tabs, making replacement simple.",
+        "Many components are modular and can be replaced independently."
+      ],
+      "minus": [
+        "The fused display is thin and unsupported, and must be removed to access any other component."
+      ]
+    }
+  },
+  {
+    "name": "iPhone 7",
+    "manufacturer": "iPhone",
+    "model": "7",
+    "issue_time": "2016-09-16T00:00:00-07:00",
+    "score": "7",
+    "plus_and_minus": {
+      "plus": [
+        "The battery is straightforward to access. Removing it requires specialty screwdrivers and knowledge of the adhesive removal technique, but is not difficult.",
+        "The solid state home button eliminates a common point of failure."
+      ],
+      "minus": [
+        "With the addition of tri-point screws, many iPhone 7 repairs will require up to four different types of drivers."
+      ]
+    }
+  },
+  {
+    "name": "iPhone 7 Plus",
+    "manufacturer": "iPhone",
+    "model": "7 Plus",
+    "issue_time": "2016-09-16T00:00:00-07:00",
+    "score": "7",
+    "plus_and_minus": {
+      "plus": [
+        "The battery is straightforward to access. Removing it requires specialty screwdrivers and knowledge of the adhesive removal technique, but is not difficult.",
+        "The solid state home button eliminates a common point of failure."
+      ],
+      "minus": [
+        "With the addition of tri-point screws, many iPhone 7 Plus repairs will require up to four different types of drivers."
+      ]
+    }
+  },
+  {
+    "name": "Sony Xperia X Compact",
+    "manufacturer": "Sony",
+    "model": "Xperia X Compact",
+    "issue_time": "2016-09-08T00:00:00-07:00",
+    "score": "6",
+    "plus_and_minus": {
+      "plus": [
+        "Modular design allows for replacement of many individual components."
+      ],
+      "minus": [
+        "Adhesive used throughout will need to be replaced during reassembly, and may never be as waterproof again."
+      ]
+    }
+  },
+  {
+    "name": "Moto Z",
+    "manufacturer": "Moto",
+    "model": "Z",
+    "issue_time": "2016-09-01T00:00:00-07:00",
+    "score": "7",
+    "plus_and_minus": {
+      "plus": [
+        "Pull-tab on battery, easy to access once you have the device open.",
+        "Modular assembly allows independent replacement of many components"
+      ],
+      "minus": [
+        "Charging port soldered to the motherboard means a common repair will be very expensive."
+      ]
+    }
+  },
+  {
+    "name": "Samsung Galaxy Note7",
+    "manufacturer": "Samsung",
+    "model": "Galaxy Note7",
+    "issue_time": "2016-08-19T00:00:00-07:00",
+    "score": "4",
+    "plus_and_minus": {
+      "plus": [
+        "Many components are modular and can be replaced independently."
+      ],
+      "minus": [
+        "Front and back glass make for double the crackability, and strong adhesive on the rear glass makes it very difficult to gain entry into the device.",
+        "Because of the curved screen, replacing the front glass without destroying the display is probably impossible."
+      ]
+    }
+  },
+  {
+    "name": "Asus Zenfone 3 Max",
+    "manufacturer": "Asus",
+    "model": "Zenfone 3 Max",
+    "issue_time": "2016-08-01T00:00:00-07:00",
+    "score": "6",
+    "plus_and_minus": {
+      "plus": [
+        "Battery is easily accessible and removable."
+      ],
+      "minus": [
+        "The opening procedure is extremely tough, clips are stiff and likely to be broken, and the SIM slot bends easily."
+      ]
+    }
+  },
+  {
+    "name": "Meizu MX6",
+    "manufacturer": "Meizu",
+    "model": "MX6",
+    "issue_time": "2016-07-19T00:00:00-07:00",
+    "score": "7",
+    "plus_and_minus": {
+      "plus": [
+        "The display assembly is the first component out, simplifying screen repairs.",
+        "Modular components with spring contacts, large screws, and thoughtful cabling all make repair cheaper and easier."
+      ],
+      "minus": [
+        "The MX6 uses Pentalobe security screws on the exterior, requiring a specialty screwdriver to open the phone before any repair."
+      ]
+    }
+  },
+  {
+    "name": "LG G5",
+    "manufacturer": "LG",
+    "model": "G5",
+    "issue_time": "2016-06-01T00:00:00-07:00",
+    "score": "8",
+    "plus_and_minus": {
+      "plus": [
+        "The user-removable, slide-out battery is a huge boon to phone lifespan.",
+        "No glue and few screws make for a relatively simple opening procedure."
+      ],
+      "minus": [
+        "The fused display assembly will need to be replaced if the LCD or glass breaks, increasing costs."
+      ]
+    }
+  },
+  {
+    "name": "Vivo X7 Plus",
+    "manufacturer": "Vivo",
+    "model": "X7 Plus",
+    "issue_time": "2016-06-01T00:00:00-07:00",
+    "score": "7",
+    "plus_and_minus": {
+      "plus": [
+        "Battery is fairly easily accessible and removable."
+      ],
+      "minus": [
+        "The single unit display assembly is annoying to reach, and will be a costly part."
+      ]
+    }
+  },
+  {
+    "name": "Vivo X7",
+    "manufacturer": "Vivo",
+    "model": "X7",
+    "issue_time": "2016-06-01T00:00:00-07:00",
+    "score": "6",
+    "plus_and_minus": {
+      "plus": [
+        "Battery is fairly easily accessible and removable."
+      ],
+      "minus": [
+        "The opening procedure is extremely tough, clips are very stiff and likely to be broken."
+      ]
+    }
+  },
+  {
+    "name": "Huawei P9",
+    "manufacturer": "Huawei",
+    "model": "P9",
+    "issue_time": "2016-04-01T00:00:00-07:00",
+    "score": "7",
+    "plus_and_minus": {
+      "plus": [
+        "Modular components with spring contacts, thoughtful cabling, and minimal adhesive all make repair cheaper and easier.",
+        "The battery is straightforward to access. Removing it requires knowledge of the adhesive removal technique, but is not difficult."
+      ],
+      "minus": [
+        "The display assembly is a fused unit, and replacement requires near complete disassembly of the phone."
+      ]
+    }
+  },
+  {
+    "name": "Xiaomi Mi 5",
+    "manufacturer": "Xiaomi",
+    "model": "Mi 5",
+    "issue_time": "2016-04-01T00:00:00-07:00",
+    "score": "6",
+    "plus_and_minus": {
+      "plus": [
+        "The motherboard and battery can be replaced independently and easily.",
+        "Most components are modular and can be replaced independently."
+      ],
+      "minus": [
+        "The display is difficult to replace, requiring complete disassembly and purchasing consumables."
+      ]
+    }
+  },
+  {
+    "name": "iPhone SE",
+    "manufacturer": "iPhone",
+    "model": "SE",
+    "issue_time": "2016-03-31T00:00:00-07:00",
+    "score": "6",
+    "plus_and_minus": {
+      "plus": [
+        "The display assembly is the first component out of the phone, simplifying screen replacements.",
+        "The battery is fairly easy to access, even though it's not technically \"user replaceable.\""
+      ],
+      "minus": [
+        "The Touch ID cable could be easily ripped out of its socket if a user is not careful when opening the phone."
+      ]
+    }
+  },
+  {
+    "name": "Oppo R9m",
+    "manufacturer": "Oppo",
+    "model": "R9m",
+    "issue_time": "2016-03-17T00:00:00-07:00",
+    "score": "7",
+    "plus_and_minus": {
+      "plus": [
+        "Battery is fairly easily accessible and removable.",
+        "Most components are extremely modular making for cheaper repairs."
+      ],
+      "minus": [
+        "The opening procedure is extremely tough, clips are very stiff and likely to be broken."
+      ]
+    }
+  },
+  {
+    "name": "Samsung Galaxy S7",
+    "manufacturer": "Samsung",
+    "model": "Galaxy S7",
+    "issue_time": "2016-03-11T00:00:00-07:00",
+    "score": "3",
+    "plus_and_minus": {
+      "plus": [
+        "Many components are modular and can be replaced independently."
+      ],
+      "minus": [
+        "The display needs to be removed (and likely destroyed) if you want to replace the USB port.",
+        "Front and back glass make for double the crackability, and strong adhesive on the rear glass makes it very difficult to gain entry into the device."
+      ]
+    }
+  },
+  {
+    "name": "Samsung Galaxy S7 Edge",
+    "manufacturer": "Samsung",
+    "model": "Galaxy S7 Edge",
+    "issue_time": "2016-03-11T00:00:00-07:00",
+    "score": "3",
+    "plus_and_minus": {
+      "plus": [
+        "Many components are modular and can be replaced independently."
+      ],
+      "minus": [
+        "The display needs to be removed (and likely destroyed) if you want to replace the USB port.",
+        "Front and back glass make for double the crackability, and strong adhesive on the rear glass makes it very difficult to gain entry into the device."
+      ]
+    }
+  },
+  {
+    "name": "Lenovo K5 Note",
+    "manufacturer": "Lenovo",
+    "model": "K5 Note",
+    "issue_time": "2016-01-01T00:00:00-07:00",
+    "score": "6",
+    "plus_and_minus": {
+      "plus": [
+        "Battery is replaceable with just a couple of tools.",
+        "A single Phillips 00 driver takes care of all the screws."
+      ],
+      "minus": [
+        "Replacing the display assembly requires removing every other component from the device first."
+      ]
+    }
+  },
+  {
+    "name": "Fairphone 2",
+    "manufacturer": "Fairphone",
+    "model": "2",
+    "issue_time": "2015-12-01T00:00:00-07:00",
+    "score": "10",
+    "plus_and_minus": {
+      "plus": [
+        "The most commonly failing components, battery and display, can be replaced without tools.",
+        "Internal modules are secured with Phillips #0 screws and simple spring connectors.",
+        "Individual modules can be opened, and many components can be individually replaced."
+      ]
+    }
+  },
+  {
+    "name": "Huawei Mate 8",
+    "manufacturer": "Huawei",
+    "model": "Mate 8",
+    "issue_time": "2015-11-26T00:00:00-07:00",
+    "score": "6",
+    "plus_and_minus": {
+      "plus": [
+        "Many components are modular and can be individually replaced.",
+        "Opening the phone requires only a Torx screwdriver and a prying tool (No adhesive holding it together)."
+      ],
+      "minus": [
+        "A tamper evident sticker must be removed when disconnecting the battery."
+      ]
+    }
+  },
+  {
+    "name": "Xiaomi Redmi Note 3",
+    "manufacturer": "Xiaomi",
+    "model": "Redmi Note 3",
+    "issue_time": "2015-11-24T00:00:00-07:00",
+    "score": "8",
+    "plus_and_minus": {
+      "plus": [
+        "Despite no external screws, the rear case is fairly easy to remove.",
+        "Battery is easy to access and remove."
+      ],
+      "minus": [
+        "Display assembly is a single fused component, that requires disassembling the entire phone to replace."
+      ]
+    }
+  },
+  {
+    "name": "Wiko Pulp 4G Phone",
+    "manufacturer": "Wiko",
+    "model": "Pulp 4G Phone",
+    "issue_time": "2015-11-01T00:00:00-07:00",
+    "score": "7",
+    "plus_and_minus": {
+      "plus": [
+        "Replacing the battery is easy as pie with the swappable back cover.",
+        "This phone doesn't use excessive glue nor proprietary screws\u2014we found only Phillips throughout the entirety."
+      ],
+      "minus": [
+        "Unfortunately, the components on the daughterboard are soldered on, making a repair on an individual component difficult."
+      ]
+    }
+  },
+  {
+    "name": "iPhone 6s",
+    "manufacturer": "iPhone",
+    "model": "6s",
+    "issue_time": "2015-09-25T00:00:00-07:00",
+    "score": "7",
+    "plus_and_minus": {
+      "plus": [
+        "The display assembly continues to be the first component out, simplifying screen repairs.",
+        "The battery is straightforward to access. Removing it requires a proprietary pentalobe screwdriver and knowledge of the adhesive removal technique, but is not difficult."
+      ],
+      "minus": [
+        "The iPhone 6s still uses proprietary Pentalobe screws on the exterior, requiring a specialty screwdriver to remove."
+      ]
+    }
+  },
+  {
+    "name": "iPhone 6s Plus",
+    "manufacturer": "iPhone",
+    "model": "6s Plus",
+    "issue_time": "2015-09-25T00:00:00-07:00",
+    "score": "7",
+    "plus_and_minus": {
+      "plus": [
+        "The display assembly continues to be the first component out, simplifying screen repairs.",
+        "The battery is straightforward to access. Removing it requires a proprietary Pentalobe screwdriver and knowledge of the adhesive removal technique, but is not difficult."
+      ],
+      "minus": [
+        "The iPhone 6s Plus still uses proprietary Pentalobe screws on the exterior, requiring a specialty screwdriver to remove."
+      ]
+    }
+  },
+  {
+    "name": "Nexus 5X",
+    "manufacturer": "Nexus",
+    "model": "5X",
+    "issue_time": "2015-09-01T00:00:00-07:00",
+    "score": "7",
+    "plus_and_minus": {
+      "plus": [
+        "Many components are modular and can be replaced independently.",
+        "Standard Phillips screws means a driver is easy to find."
+      ],
+      "minus": [
+        "Fused display assembly\u2014glass and LCD will need to be replaced together if one or the other breaks."
+      ]
+    }
+  },
+  {
+    "name": "Nexus 6P",
+    "manufacturer": "Nexus",
+    "model": "6P",
+    "issue_time": "2015-09-01T00:00:00-07:00",
+    "score": "2",
+    "plus_and_minus": {
+      "minus": [
+        "It's very difficult\u2014although not impossible\u2014to open the device without damaging the glass camera cover. Because of the unibody design, this makes every component extremely difficult to replace.",
+        "The display assembly cannot be replaced without tunneling through the entire phone. This makes one of the most common repairs, a damaged screen, difficult to accomplish.",
+        "Tough adhesive holds the rear cover panels and battery in place."
+      ]
+    }
+  },
+  {
+    "name": "OnePlus 2",
+    "manufacturer": "OnePlus",
+    "model": "2",
+    "issue_time": "2015-07-28T00:00:00-07:00",
+    "score": "7",
+    "plus_and_minus": {
+      "plus": [
+        "A single (non-proprietary) screw head decreases cost of tools for repairs.",
+        "Many components are modular and can be replaced independently."
+      ],
+      "minus": [
+        "The LCD and digitizer glass are fused together and must be replaced as a single part; heat is required to remove it from the midframe."
+      ]
+    }
+  },
+  {
+    "name": "Shift 5.1",
+    "manufacturer": "Shift",
+    "model": "5.1",
+    "issue_time": "2015-07-01T00:00:00-07:00",
+    "score": "6",
+    "plus_and_minus": {
+      "plus": [
+        "Cover and battery are easy to remove and can be swapped without using tools.",
+        "No excessive glue and  no proprietary screws are used, only Phillips #000."
+      ],
+      "minus": [
+        "Lots of components and connectors are soldered to the motherboard. They could be soldered by hand if needed but this makes repairs more difficult."
+      ]
+    }
+  },
+  {
+    "name": "LG G4",
+    "manufacturer": "LG",
+    "model": "G4",
+    "issue_time": "2015-04-29T00:00:00-07:00",
+    "score": "8",
+    "plus_and_minus": {
+      "plus": [
+        "Rear panel and battery can be removed with no tools.",
+        "Many components are modular and can be replaced independently."
+      ],
+      "minus": [
+        "Fused display assembly\u2014glass and LCD will need to be replaced together if one or the other breaks."
+      ]
+    }
+  },
+  {
+    "name": "Samsung Galaxy S6",
+    "manufacturer": "Samsung",
+    "model": "Galaxy S6",
+    "issue_time": "2015-04-10T00:00:00-07:00",
+    "score": "4",
+    "plus_and_minus": {
+      "plus": [
+        "Many components are modular and can be replaced independently."
+      ],
+      "minus": [
+        "Front and back glass make for double the crackability, and strong adhesive on the rear glass makes it very difficult to gain entry into the device.",
+        "Replacing the glass without destroying the display is probably impossible."
+      ]
+    }
+  },
+  {
+    "name": "Samsung Galaxy S6 Edge",
+    "manufacturer": "Samsung",
+    "model": "Galaxy S6 Edge",
+    "issue_time": "2015-04-10T00:00:00-07:00",
+    "score": "3",
+    "plus_and_minus": {
+      "plus": [
+        "Many components are modular and can be replaced independently."
+      ],
+      "minus": [
+        "Front and back glass make for double the crackability, and strong adhesive on the rear glass makes it very difficult to gain entry into the device.",
+        "The battery is very tightly adhered to the back of the display, and buried beneath the midframe and motherboard."
+      ]
+    }
+  },
+  {
+    "name": "HTC One M9",
+    "manufacturer": "HTC",
+    "model": "One M9",
+    "issue_time": "2015-04-10T00:00:00-07:00",
+    "score": "2",
+    "plus_and_minus": {
+      "minus": [
+        "The battery is buried beneath the motherboard and adhered to the midframe, hindering its replacement.",
+        "The display assembly cannot be replaced without tunneling through the entire phone. This makes one of most common repairs\u2014a damaged screen\u2014very difficult to accomplish.",
+        "Intense adhesives make many components difficult, and even dangerous, to remove and replace."
+      ]
+    }
+  },
+  {
+    "name": "Nexus 6",
+    "manufacturer": "Nexus",
+    "model": "6",
+    "issue_time": "2014-11-01T00:00:00-07:00",
+    "score": "7",
+    "plus_and_minus": {
+      "plus": [
+        "Pressure contacts and cable connectors make the modular components (cameras, buttons, headphone jack) easy to replace.",
+        "The Nexus 6 uses a single kind of screw, although it's a fairly uncommon size (T3)."
+      ],
+      "minus": [
+        "Several components (vibrator, SIM slot, speaker, USB port) are soldered directly to the motherboard and will be more difficult to replace than if they were connected by cable."
+      ]
+    }
+  },
+  {
+    "name": "iPhone 6 Plus",
+    "manufacturer": "iPhone",
+    "model": "6 Plus",
+    "issue_time": "2014-09-19T00:00:00-07:00",
+    "score": "7",
+    "plus_and_minus": {
+      "plus": [
+        "Continuing the trend from the iPhone 5 series, the display assembly comes out of the phone first, simplifying screen repairs.",
+        "The battery is straightforward to access. Removing it requires a proprietary pentalobe screwdriver and knowledge of the adhesive removal technique, but is not difficult."
+      ],
+      "minus": [
+        "The iPhone 6 Plus still uses proprietary Pentalobe screws on the exterior, requiring a specialty screwdriver to remove."
+      ]
+    }
+  },
+  {
+    "name": "iPhone 6",
+    "manufacturer": "iPhone",
+    "model": "6",
+    "issue_time": "2014-09-19T00:00:00-07:00",
+    "score": "7",
+    "plus_and_minus": {
+      "plus": [
+        "Continuing the trend from the iPhone 5 series, the display assembly comes out of the phone first, simplifying screen repairs.",
+        "The battery is straightforward to access. Removing it requires a proprietary pentalobe screwdriver and knowledge of the adhesive removal technique, but is not difficult."
+      ],
+      "minus": [
+        "The iPhone 6 still uses proprietary Pentalobe screws on the exterior, requiring a specialty screwdriver to remove."
+      ]
+    }
+  },
+  {
+    "name": "Samsung Galaxy Alpha",
+    "manufacturer": "Samsung",
+    "model": "Galaxy Alpha",
+    "issue_time": "2014-09-01T00:00:00-07:00",
+    "score": "5",
+    "plus_and_minus": {
+      "plus": [
+        "The battery is incredibly easy to remove and replace."
+      ],
+      "minus": [
+        "The display assembly is held in with a significant amount of adhesive and requires very careful prying and a considerable amount of heat to remove without cracking the thin glass or cutting cables.",
+        "Replacing anything other than the battery requires first removing the display, risking extra damage on the way to a repair."
+      ]
+    }
+  },
+  {
+    "name": "Amazon Fire Phone",
+    "manufacturer": "Amazon",
+    "model": "Fire Phone",
+    "issue_time": "2014-07-25T00:00:00-07:00",
+    "score": "3",
+    "plus_and_minus": {
+      "plus": [
+        "External, non-proprietary screws means no adhesive holding the device together, and an easier time getting in."
+      ],
+      "minus": [
+        "Tons of cables and connectors make disassembly tedious and reassembly difficult.",
+        "The four Dynamic Perspective cameras are encased in glue. Replacement will mean heat and cutting."
+      ]
+    }
+  },
+  {
+    "name": "Samsung Galaxy S5 Mini",
+    "manufacturer": "Samsung",
+    "model": "Galaxy S5 Mini",
+    "issue_time": "2014-07-01T00:00:00-07:00",
+    "score": "5",
+    "plus_and_minus": {
+      "plus": [
+        "The battery is incredibly easy to remove and replace."
+      ],
+      "minus": [
+        "Replacing anything other than the battery requires first removing the display, risking extra damage on the way to a repair."
+      ]
+    }
+  },
+  {
+    "name": "OnePlus One",
+    "manufacturer": "OnePlus",
+    "model": "One",
+    "issue_time": "2014-04-23T00:00:00-07:00",
+    "score": "5",
+    "plus_and_minus": {
+      "plus": [
+        "No proprietary screws and only one screw head type decreases cost of tools for repairs."
+      ],
+      "minus": [
+        "With its connector trapped under a plastic panel and several screws, the battery is more of a chore to replace than necessary.",
+        "The LCD and digitizer glass are fused together and must be replaced as a single part, and they require heat to remove from the midframe."
+      ]
+    }
+  },
+  {
+    "name": "Samsung Galaxy S5",
+    "manufacturer": "Samsung",
+    "model": "Galaxy S5",
+    "issue_time": "2014-04-11T00:00:00-07:00",
+    "score": "5",
+    "plus_and_minus": {
+      "plus": [
+        "The battery is incredibly easy to remove and replace."
+      ],
+      "minus": [
+        "Replacing anything other than the battery requires first removing the display, risking extra damage on the way to a repair."
+      ]
+    }
+  },
+  {
+    "name": "HTC One M8",
+    "manufacturer": "HTC",
+    "model": "One M8",
+    "issue_time": "2014-03-25T00:00:00-07:00",
+    "score": "2",
+    "plus_and_minus": {
+      "minus": [
+        "It's very difficult\u2014although no longer impossible\u2014to open the device without damaging the rear case. This makes every component extremely difficult to replace.",
+        "The battery is buried beneath the motherboard and adhered to the midframe, hindering its replacement.",
+        "The display assembly cannot be replaced without tunneling through the entire phone. This makes one of most common repairs, a damaged screen, very difficult to accomplish."
+      ]
+    }
+  },
+  {
+    "name": "Fairphone 1",
+    "manufacturer": "Fairphone",
+    "model": "1",
+    "issue_time": "2013-12-01T00:00:00-07:00",
+    "score": "7",
+    "plus_and_minus": {
+      "plus": [
+        "The battery can be replaced without any tools.",
+        "It's very easy to open and access the internal components."
+      ],
+      "minus": [
+        "Several smaller components are soldered to the motherboard, increasing repair difficulty (front-facing camera, vibrator motor, LED flash, and headphone jack)."
+      ]
+    }
+  },
+  {
+    "name": "Nexus 5",
+    "manufacturer": "Nexus",
+    "model": "5",
+    "issue_time": "2013-10-31T00:00:00-07:00",
+    "score": "8",
+    "plus_and_minus": {
+      "plus": [
+        "Very modular design allows independent replacement of several wear-prone components\u2014like the headphone jack and speakers.",
+        "Only very mild adhesive holds the battery in place, making it fairly easy to safely remove and replace."
+      ],
+      "minus": [
+        "The glass and LCD are fused to the display frame. Fixing broken glass will be either expensive or very difficult."
+      ]
+    }
+  },
+  {
+    "name": "iPhone 5c",
+    "manufacturer": "iPhone",
+    "model": "5c",
+    "issue_time": "2013-09-20T00:00:00-07:00",
+    "score": "6",
+    "plus_and_minus": {
+      "plus": [
+        "Just like in the iPhone 5, the display assembly is the first component out of the phone, simplifying screen replacements.",
+        "The battery is still fairly easy to access, even though it's not technically \"user replaceable.\""
+      ],
+      "minus": [
+        "Adhesive on the antenna connectors hinder disassembly."
+      ]
+    }
+  },
+  {
+    "name": "iPhone 5s",
+    "manufacturer": "iPhone",
+    "model": "5s",
+    "issue_time": "2013-09-20T00:00:00-07:00",
+    "score": "6",
+    "plus_and_minus": {
+      "plus": [
+        "Just like in the iPhone 5, the display assembly is the first component out of the phone, simplifying screen replacements.",
+        "The battery is still fairly easy to access, even though it's not technically \"user replaceable.\""
+      ],
+      "minus": [
+        "The fingerprint sensor cable could be easily ripped out of its socket if a user is not careful while opening the phone."
+      ]
+    }
+  },
+  {
+    "name": "Motorola Moto X 1st Generation",
+    "manufacturer": "Motorola",
+    "model": "Moto X 1st Generation",
+    "issue_time": "2013-08-01T00:00:00-07:00",
+    "score": "7",
+    "plus_and_minus": {
+      "plus": [
+        "Pressure contacts and cable connectors make the modular components (cameras, buttons, headphone jack and speakers) easy to replace.",
+        "The Moto X uses a single kind of screw, although it's a fairly uncommon size (T3)."
+      ],
+      "minus": [
+        "Sticky adhesive on the back cover is annoying and will slow opening the phone."
+      ]
+    }
+  },
+  {
+    "name": "Samsung Galaxy S4",
+    "manufacturer": "Samsung",
+    "model": "Galaxy S4",
+    "issue_time": "2013-04-27T00:00:00-07:00",
+    "score": "8",
+    "plus_and_minus": {
+      "plus": [
+        "The battery can be replaced in seconds, without any tools.",
+        "Very easy to open and access internal components."
+      ],
+      "minus": [
+        "The glass is fused to both the display and the display frame, increasing repair costs."
+      ]
+    }
+  },
+  {
+    "name": "HTC One",
+    "manufacturer": "HTC",
+    "model": "One",
+    "issue_time": "2013-03-25T00:00:00-07:00",
+    "score": "1",
+    "plus_and_minus": {
+      "minus": [
+        "Very, very difficult (possibly impossible?) to open the device without damaging the rear case. This makes every component extremely difficult to replace.",
+        "The battery is buried beneath the motherboard and adhered to the midframe, hindering its replacement.",
+        "The display assembly cannot be replaced without removing the rear case\u2014this will make the most common repair, a damaged screen, nearly impossible."
+      ]
+    }
+  },
+  {
+    "name": "BlackBerry Z10",
+    "manufacturer": "BlackBerry",
+    "model": "Z10",
+    "issue_time": "2013-01-30T00:00:00-07:00",
+    "score": "8",
+    "plus_and_minus": {
+      "plus": [
+        "The battery can be replaced without any tools.",
+        "Motherboard and display come out with little difficulty and are held in place with little adhesive."
+      ],
+      "minus": [
+        "Smaller components (headphone jack, camera) are modular and can be replaced individually, but have somewhat strong adhesive holding them in place."
+      ]
+    }
+  },
+  {
+    "name": "Nexus 4",
+    "manufacturer": "Nexus",
+    "model": "4",
+    "issue_time": "2012-11-13T00:00:00-07:00",
+    "score": "7",
+    "plus_and_minus": {
+      "plus": [
+        "Removing the back cover requires nothing more than a common screwdriver, a plastic opening tool, and some patience.",
+        "The entire device only contains four different length screws\u2014all common screw types\u2014for a total of only 15 screws."
+      ],
+      "minus": [
+        "The battery is stuck to the frame with a lot of adhesive, so removing it without puncturing the battery can be difficult."
+      ]
+    }
+  },
+  {
+    "name": "Samsung Galaxy Note II",
+    "manufacturer": "Samsung",
+    "model": "Galaxy Note II",
+    "issue_time": "2012-09-26T00:00:00-07:00",
+    "score": "8",
+    "plus_and_minus": {
+      "plus": [
+        "Battery is easy to replace.",
+        "Very easy to open for access to internal components."
+      ],
+      "minus": [
+        "Components adhered to the back of a fused display assembly."
+      ]
+    }
+  },
+  {
+    "name": "iPhone 5",
+    "manufacturer": "iPhone",
+    "model": "5",
+    "issue_time": "2012-09-21T00:00:00-07:00",
+    "score": "7",
+    "plus_and_minus": {
+      "plus": [
+        "We're quite happy that the glass/display is the first thing that comes off the iPhone 5. The majority of iPhone repairs are due to a shattered front glass.",
+        "The battery comes out with a bit of prying once the front panel is removed."
+      ],
+      "minus": [
+        "The iPhone 5 still uses Pentalobe screws on the exterior, making it more difficult to open the device."
+      ]
+    }
+  },
+  {
+    "name": "Samsung Galaxy S III",
+    "manufacturer": "Samsung",
+    "model": "Galaxy S III",
+    "issue_time": "2012-05-29T00:00:00-07:00",
+    "score": "8",
+    "plus_and_minus": {
+      "plus": [
+        "The battery can be replaced without any tools.",
+        "Very easy to open and access internal components."
+      ],
+      "minus": [
+        "The glass is fused to both the display and the display frame, increasing repair costs."
+      ]
+    }
+  },
+  {
+    "name": "Motorola Droid 4",
+    "manufacturer": "Motorola",
+    "model": "Droid 4",
+    "issue_time": "2012-02-12T00:00:00-07:00",
+    "score": "4",
+    "plus_and_minus": {
+      "plus": [
+        "The lack of security or proprietary screws is a welcome sight."
+      ],
+      "minus": [
+        "Keyboard contacts are located on the motherboard, making keyboard replacement costly and difficult.",
+        "Tons of glue adheres the glue that is securing the glue to the glue that holds the phone together."
+      ]
+    }
+  },
+  {
+    "name": "Samsung Galaxy Nexus",
+    "manufacturer": "Samsung",
+    "model": "Galaxy Nexus",
+    "issue_time": "2011-12-15T00:00:00-07:00",
+    "score": "7",
+    "plus_and_minus": {
+      "plus": [
+        "Battery replacement is incredibly simple thanks to the removable rear panel.",
+        "Minimal adhesive makes removal of the motherboard and other components a snap."
+      ],
+      "minus": [
+        "Removing the rear case to access the motherboard and other internals requiresa lotof careful prying and guitar-picking."
+      ]
+    }
+  },
+  {
+    "name": "Motorola Droid RAZR",
+    "manufacturer": "Motorola",
+    "model": "Droid RAZR",
+    "issue_time": "2011-11-01T00:00:00-07:00",
+    "score": "4",
+    "plus_and_minus": {
+      "plus": [
+        "Once the battery and motherboard are within reach, replacement is easy\u2014no soldering required."
+      ],
+      "minus": [
+        "The front panel is adhered to the AMOLED display, so they must be replaced as one expensive unit.",
+        "All plastic frames and casing proved to be incredibly tedious to remove, and felt like they would break at any moment."
+      ]
+    }
+  },
+  {
+    "name": "iPhone 4S",
+    "manufacturer": "iPhone",
+    "model": "4S",
+    "issue_time": "2011-10-04T00:00:00-07:00",
+    "score": "6",
+    "plus_and_minus": {
+      "plus": [
+        "The iPhone 4S is still held together primarily with screws and limited adhesive.",
+        "The rear panel and battery are both easy to remove and replace (provided you have the correct screwdriver)."
+      ],
+      "minus": [
+        "Apple is again using Pentalobe screws to secure the rear panel and keep people out"
+      ]
+    }
+  },
+  {
+    "name": "Samsung Galaxy Note",
+    "manufacturer": "Samsung",
+    "model": "Galaxy Note",
+    "issue_time": "2011-10-01T00:00:00-07:00",
+    "score": "8",
+    "plus_and_minus": {
+      "plus": [
+        "Battery is easy to replace.",
+        "Very easy to open for access to internal components."
+      ],
+      "minus": [
+        "Components adhered to the back of a fused display assembly."
+      ]
+    }
+  },
+  {
+    "name": "Motorola Droid Bionic",
+    "manufacturer": "Motorola",
+    "model": "Droid Bionic",
+    "issue_time": "2011-09-01T00:00:00-07:00",
+    "score": "9",
+    "plus_and_minus": {
+      "plus": [
+        "No tools are necessary for changing the SIM and microSD cards.",
+        "The battery can be removed in seconds.",
+        "The phone is held together with a limited number of screws and plastic clips. Adhesive is minimally used in its construction."
+      ]
+    }
+  },
+  {
+    "name": "Motorola Droid 3",
+    "manufacturer": "Motorola",
+    "model": "Droid 3",
+    "issue_time": "2011-07-07T00:00:00-07:00",
+    "score": "6",
+    "plus_and_minus": {
+      "plus": [
+        "There were no security screws in the entire device.",
+        "The battery was not soldered to anything and was easy to replace."
+      ],
+      "minus": [
+        "There is a lot of adhesive holding things together, making disassembly and reassembly difficult."
+      ]
+    }
+  },
+  {
+    "name": "Samsung Galaxy S II",
+    "manufacturer": "Samsung",
+    "model": "Galaxy S II",
+    "issue_time": "2011-05-02T00:00:00-07:00",
+    "score": "8",
+    "plus_and_minus": {
+      "plus": [
+        "Battery is easy to replace.",
+        "Very easy to open for access to internal components."
+      ],
+      "minus": [
+        "Components adhered to the back of a fused display assembly."
+      ]
+    }
+  },
+  {
+    "name": "Samsung Galaxy S 4G",
+    "manufacturer": "Samsung",
+    "model": "Galaxy S 4G",
+    "issue_time": "2011-02-23T00:00:00-07:00",
+    "score": "6",
+    "plus_and_minus": {
+      "plus": [
+        "Removing the rear panel to replace the microSD/SIM cards and the battery requires no tools.",
+        "Attaching components like the headphone jack to separate cables makes their replacement less costly than replacing the entire motherboard."
+      ],
+      "minus": [
+        "The front panel is adhered to the AMOLED display, so they must be replaced as one expensive unit."
+      ]
+    }
+  },
+  {
+    "name": "iPhone 4 Verizon",
+    "manufacturer": "iPhone",
+    "model": "4 Verizon",
+    "issue_time": "2011-02-07T00:00:00-07:00",
+    "score": "6",
+    "plus_and_minus": {
+      "plus": [
+        "The iPhone 4 is held together primarily with [lots of] screws, sans tabs, and limited adhesive.",
+        "The rear panel and battery are both easy to remove and replace (provided you have the right screwdriver)."
+      ],
+      "minus": [
+        "Apple is using Pentalobe screws to secure the rear panel and keep people out."
+      ]
+    }
+  },
+  {
+    "name": "Motorola Atrix 4G",
+    "manufacturer": "Motorola",
+    "model": "Atrix 4G",
+    "issue_time": "2011-02-01T00:00:00-07:00",
+    "score": "9",
+    "plus_and_minus": {
+      "plus": [
+        "The LCD is separable from the glass front panel, making them independently replaceable.",
+        "The phone is held together with a limited number of screws and plastic clips. Adhesive is minimally used in its construction.",
+        "The battery can be removed in seconds."
+      ]
+    }
+  },
+  {
+    "name": "Nexus S",
+    "manufacturer": "Nexus",
+    "model": "S",
+    "issue_time": "2010-12-01T00:00:00-07:00",
+    "score": "7",
+    "plus_and_minus": {
+      "plus": [
+        "Battery is very easily replaceable -- just remove the back cover to swap it out.",
+        "The motherboard comes out easily once you're inside, as it's held in place by regular screws and connectors."
+      ],
+      "minus": [
+        "Front panel is attached with adhesive instead of screws, so it's harder to take off than on the iPhone."
+      ]
+    }
+  },
+  {
+    "name": "HTC Surround",
+    "manufacturer": "HTC",
+    "model": "Surround",
+    "issue_time": "2010-11-08T00:00:00-07:00",
+    "score": "5",
+    "plus_and_minus": {
+      "plus": [
+        "Relatively easy to remove the rear case to replace the battery."
+      ],
+      "minus": [
+        "Unable to access the internal MicroSDHC card without voiding the warranty.",
+        "It is very difficult to access the front panel and LCD for replacement."
+      ]
+    }
+  },
+  {
+    "name": "Nokia N8",
+    "manufacturer": "Nokia",
+    "model": "N8",
+    "issue_time": "2010-10-01T00:00:00-07:00",
+    "score": "8",
+    "plus_and_minus": {
+      "plus": [
+        "The battery, although considered by Nokia not to be user-serviceable, can be easily removed.",
+        "The AMOLED display easily comes apart from the glass, which means that you can replace the glass and the display independently."
+      ],
+      "minus": [
+        "Removing the cameras is near-impossible, and requires tedious, potentially detrimental steps."
+      ]
+    }
+  },
+  {
+    "name": "iPhone 3GS",
+    "manufacturer": "iPhone",
+    "model": "3GS",
+    "issue_time": "2009-06-19T00:00:00-07:00",
+    "score": "7",
+    "plus_and_minus": {
+      "plus": [
+        "LCD and front glass are not fused and can be replaced individually.",
+        "Standard Phillips screws used throughout."
+      ],
+      "minus": [
+        "Battery is buried under the logic board, making it difficult to replace."
+      ]
+    }
+  },
+  {
+    "name": "iPhone 3G",
+    "manufacturer": "iPhone",
+    "model": "3G",
+    "issue_time": "2008-07-11T00:00:00-07:00",
+    "score": "7",
+    "plus_and_minus": {
+      "plus": [
+        "LCD and front glass are not fused and can be replaced individually.",
+        "Standard Phillips screws used throughout."
+      ],
+      "minus": [
+        "Battery is buried under the logic board, making it difficult to replace."
+      ]
+    }
+  },
+  {
+    "name": "iPhone 1st Generation",
+    "manufacturer": "iPhone",
+    "model": "1st Generation",
+    "issue_time": "2007-06-29T00:00:00-07:00",
+    "score": "2",
+    "plus_and_minus": {
+      "plus": [
+        "Standard Phillips screws used throughout."
+      ],
+      "minus": [
+        "Hidden clips make it nearly impossible to open rear case without damaging it.",
+        "Soldered battery is very difficult to replace."
+      ]
+    }
+  }
+]
