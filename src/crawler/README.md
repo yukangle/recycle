@@ -6,3 +6,6 @@ This script is written and tested with Python 3.9.6 on Windows system.
 
 # Install dependencies
 pip install -r requirements.txt
+
+# Update dependencies
+pip3 freeze > requirements.txt

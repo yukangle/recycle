@@ -1,4 +1,5 @@
 from collections import defaultdict
+import uuid
 
 from bs4 import BeautifulSoup
 
@@ -14,6 +15,7 @@ class IFixItParser(HTMLParser):
             manufacturer = device_name_div.contents[0].strip()
             model = device_name_div.find('span').get_text().strip()
             device = {}
+            device['id'] = str(uuid.uuid1())
             device['name'] = f'{manufacturer} {model}'
             device['manufacturer'] = manufacturer
             device['model'] = model

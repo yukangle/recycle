@@ -1,5 +1,6 @@
 [
   {
+    "id": "a65e3f40-e6fa-11eb-a724-02661827fd72",
     "name": "Mi 11",
     "manufacturer": "Mi",
     "model": "11",
@@ -16,6 +17,7 @@
     }
   },
   {
+    "id": "a65e3f41-e6fa-11eb-8e2a-02661827fd72",
     "name": "Huawei Mate 40 Pro",
     "manufacturer": "Huawei",
     "model": "Mate 40 Pro",
@@ -32,6 +34,7 @@
     }
   },
   {
+    "id": "a65e3f42-e6fa-11eb-a185-02661827fd72",
     "name": "iPhone 12 Pro Max",
     "manufacturer": "iPhone",
     "model": "12 Pro Max",
@@ -48,6 +51,7 @@
     }
   },
   {
+    "id": "a65e3f43-e6fa-11eb-bc0b-02661827fd72",
     "name": "iPhone 12 mini",
     "manufacturer": "iPhone",
     "model": "12 mini",
@@ -64,6 +68,7 @@
     }
   },
   {
+    "id": "a65e3f44-e6fa-11eb-ae99-02661827fd72",
     "name": "iPhone 12 Pro",
     "manufacturer": "iPhone",
     "model": "12 Pro",
@@ -80,6 +85,7 @@
     }
   },
   {
+    "id": "a65e3f45-e6fa-11eb-b14c-02661827fd72",
     "name": "Microsoft Surface Duo",
     "manufacturer": "Microsoft",
     "model": "Surface Duo",
@@ -94,6 +100,7 @@
     }
   },
   {
+    "id": "a65e3f46-e6fa-11eb-9539-02661827fd72",
     "name": "Google Pixel 4a",
     "manufacturer": "Google",
     "model": "Pixel 4a",
@@ -107,6 +114,7 @@
     }
   },
   {
+    "id": "a65e3f47-e6fa-11eb-a091-02661827fd72",
     "name": "Samsung Galaxy Note 20 Ultra",
     "manufacturer": "Samsung",
     "model": "Galaxy Note 20 Ultra",
@@ -123,6 +131,7 @@
     }
   },
   {
+    "id": "a65e3f48-e6fa-11eb-9a8b-02661827fd72",
     "name": "iPhone SE 2020",
     "manufacturer": "iPhone",
     "model": "SE 2020",
@@ -139,6 +148,7 @@
     }
   },
   {
+    "id": "a65e3f49-e6fa-11eb-b716-02661827fd72",
     "name": "Samsung Galaxy A51",
     "manufacturer": "Samsung",
     "model": "Galaxy A51",
@@ -154,6 +164,7 @@
     }
   },
   {
+    "id": "a65e3f4a-e6fa-11eb-b832-02661827fd72",
     "name": "Samsung Galaxy S20 Ultra",
     "manufacturer": "Samsung",
     "model": "Galaxy S20 Ultra",
@@ -170,6 +181,7 @@
     }
   },
   {
+    "id": "a65e3f4b-e6fa-11eb-91fd-02661827fd72",
     "name": "Samsung Galaxy Z Flip",
     "manufacturer": "Samsung",
     "model": "Galaxy Z Flip",
@@ -184,6 +196,7 @@
     }
   },
   {
+    "id": "a660a279-e6fa-11eb-abb2-02661827fd72",
     "name": "Motorola razr",
     "manufacturer": "Motorola",
     "model": "razr",
@@ -198,6 +211,7 @@
     }
   },
   {
+    "id": "a660a27a-e6fa-11eb-b75f-02661827fd72",
     "name": "Google Pixel 4 XL",
     "manufacturer": "Google",
     "model": "Pixel 4 XL",
@@ -214,6 +228,7 @@
     }
   },
   {
+    "id": "a660a27b-e6fa-11eb-92c9-02661827fd72",
     "name": "iPhone 11",
     "manufacturer": "iPhone",
     "model": "11",
@@ -230,6 +245,7 @@
     }
   },
   {
+    "id": "a660a27c-e6fa-11eb-9b28-02661827fd72",
     "name": "iPhone 11 Pro Max",
     "manufacturer": "iPhone",
     "model": "11 Pro Max",
@@ -246,6 +262,7 @@
     }
   },
   {
+    "id": "a660a27d-e6fa-11eb-99fa-02661827fd72",
     "name": "Fairphone 3",
     "manufacturer": "Fairphone",
     "model": "3",
@@ -260,6 +277,7 @@
     }
   },
   {
+    "id": "a660a27e-e6fa-11eb-8198-02661827fd72",
     "name": "Samsung Galaxy Note10 Plus 5G",
     "manufacturer": "Samsung",
     "model": "Galaxy Note10 Plus 5G",
@@ -276,6 +294,7 @@
     }
   },
   {
+    "id": "a660a27f-e6fa-11eb-a567-02661827fd72",
     "name": "Shift 6m",
     "manufacturer": "Shift",
     "model": "6m",
@@ -290,6 +309,7 @@
     }
   },
   {
+    "id": "a660a280-e6fa-11eb-b6aa-02661827fd72",
     "name": "Huawei Mate 20 X 5G",
     "manufacturer": "Huawei",
     "model": "Mate 20 X 5G",
@@ -306,6 +326,7 @@
     }
   },
   {
+    "id": "a660a281-e6fa-11eb-9a6f-02661827fd72",
     "name": "Google Pixel 3a",
     "manufacturer": "Google",
     "model": "Pixel 3a",
@@ -322,6 +343,7 @@
     }
   },
   {
+    "id": "a660a282-e6fa-11eb-b928-02661827fd72",
     "name": "Google Pixel 3a XL",
     "manufacturer": "Google",
     "model": "Pixel 3a XL",
@@ -338,6 +360,7 @@
     }
   },
   {
+    "id": "a660a283-e6fa-11eb-bb5f-02661827fd72",
     "name": "Samsung Galaxy Fold",
     "manufacturer": "Samsung",
     "model": "Galaxy Fold",
@@ -352,6 +375,7 @@
     }
   },
   {
+    "id": "a660a284-e6fa-11eb-8fae-02661827fd72",
     "name": "Samsung Galaxy S10",
     "manufacturer": "Samsung",
     "model": "Galaxy S10",
@@ -368,6 +392,7 @@
     }
   },
   {
+    "id": "a660a285-e6fa-11eb-a3b5-02661827fd72",
     "name": "Huawei Mate 20 Pro",
     "manufacturer": "Huawei",
     "model": "Mate 20 Pro",
@@ -384,6 +409,7 @@
     }
   },
   {
+    "id": "a660a286-e6fa-11eb-8267-02661827fd72",
     "name": "iPhone XR",
     "manufacturer": "iPhone",
     "model": "XR",
@@ -400,6 +426,7 @@
     }
   },
   {
+    "id": "a660a287-e6fa-11eb-8615-02661827fd72",
     "name": "Google Pixel 3 XL",
     "manufacturer": "Google",
     "model": "Pixel 3 XL",
@@ -416,6 +443,7 @@
     }
   },
   {
+    "id": "a660a288-e6fa-11eb-8838-02661827fd72",
     "name": "Google Pixel 3",
     "manufacturer": "Google",
     "model": "Pixel 3",
@@ -432,6 +460,7 @@
     }
   },
   {
+    "id": "a660a289-e6fa-11eb-8311-02661827fd72",
     "name": "iPhone XS",
     "manufacturer": "iPhone",
     "model": "XS",
@@ -448,6 +477,7 @@
     }
   },
   {
+    "id": "a660a28a-e6fa-11eb-8fe5-02661827fd72",
     "name": "LG G7 Thin Q",
     "manufacturer": "LG",
     "model": "G7 Thin Q",
@@ -464,6 +494,7 @@
     }
   },
   {
+    "id": "a660a28b-e6fa-11eb-84b8-02661827fd72",
     "name": "OnePlus 6",
     "manufacturer": "OnePlus",
     "model": "6",
@@ -480,6 +511,7 @@
     }
   },
   {
+    "id": "a660a28c-e6fa-11eb-8ffd-02661827fd72",
     "name": "Huawei P20 Pro",
     "manufacturer": "Huawei",
     "model": "P20 Pro",
@@ -496,6 +528,7 @@
     }
   },
   {
+    "id": "a660a28d-e6fa-11eb-a17e-02661827fd72",
     "name": "Samsung Galaxy S9 Plus",
     "manufacturer": "Samsung",
     "model": "Galaxy S9 Plus",
@@ -512,6 +545,7 @@
     }
   },
   {
+    "id": "a660a28e-e6fa-11eb-a523-02661827fd72",
     "name": "Samsung Galaxy S9",
     "manufacturer": "Samsung",
     "model": "Galaxy S9",
@@ -528,6 +562,7 @@
     }
   },
   {
+    "id": "a660a28f-e6fa-11eb-9b93-02661827fd72",
     "name": "iPhone X",
     "manufacturer": "iPhone",
     "model": "X",
@@ -544,6 +579,7 @@
     }
   },
   {
+    "id": "a660a290-e6fa-11eb-bb7a-02661827fd72",
     "name": "Google Pixel 2 XL",
     "manufacturer": "Google",
     "model": "Pixel 2 XL",
@@ -560,6 +596,7 @@
     }
   },
   {
+    "id": "a660a291-e6fa-11eb-86ec-02661827fd72",
     "name": "Google Pixel 2",
     "manufacturer": "Google",
     "model": "Pixel 2",
@@ -576,6 +613,7 @@
     }
   },
   {
+    "id": "a660a292-e6fa-11eb-9f8f-02661827fd72",
     "name": "Huawei Mate 10 Pro",
     "manufacturer": "Huawei",
     "model": "Mate 10 Pro",
@@ -592,6 +630,7 @@
     }
   },
   {
+    "id": "a660a293-e6fa-11eb-921d-02661827fd72",
     "name": "iPhone 8",
     "manufacturer": "iPhone",
     "model": "8",
@@ -608,6 +647,7 @@
     }
   },
   {
+    "id": "a660a294-e6fa-11eb-be32-02661827fd72",
     "name": "iPhone 8 Plus",
     "manufacturer": "iPhone",
     "model": "8 Plus",
@@ -624,6 +664,7 @@
     }
   },
   {
+    "id": "a660a295-e6fa-11eb-9c09-02661827fd72",
     "name": "Samsung Galaxy Note8",
     "manufacturer": "Samsung",
     "model": "Galaxy Note8",
@@ -640,6 +681,7 @@
     }
   },
   {
+    "id": "a660a296-e6fa-11eb-b878-02661827fd72",
     "name": "Essential Phone",
     "manufacturer": "Essential",
     "model": "Phone",
@@ -654,6 +696,7 @@
     }
   },
   {
+    "id": "a660a297-e6fa-11eb-adf1-02661827fd72",
     "name": "Samsung Galaxy Note Fan Edition",
     "manufacturer": "Samsung",
     "model": "Galaxy Note Fan Edition",
@@ -670,6 +713,7 @@
     }
   },
   {
+    "id": "a660a298-e6fa-11eb-8138-02661827fd72",
     "name": "OnePlus 5",
     "manufacturer": "OnePlus",
     "model": "5",
@@ -686,6 +730,7 @@
     }
   },
   {
+    "id": "a660a299-e6fa-11eb-a5c0-02661827fd72",
     "name": "Samsung Galaxy S8 Plus",
     "manufacturer": "Samsung",
     "model": "Galaxy S8 Plus",
@@ -702,6 +747,7 @@
     }
   },
   {
+    "id": "a660a29a-e6fa-11eb-ab98-02661827fd72",
     "name": "Samsung Galaxy S8",
     "manufacturer": "Samsung",
     "model": "Galaxy S8",
@@ -718,6 +764,7 @@
     }
   },
   {
+    "id": "a660a29b-e6fa-11eb-bb4d-02661827fd72",
     "name": "LG G6",
     "manufacturer": "LG",
     "model": "G6",
@@ -734,6 +781,7 @@
     }
   },
   {
+    "id": "a660a29c-e6fa-11eb-be16-02661827fd72",
     "name": "Huawei Mate 9",
     "manufacturer": "Huawei",
     "model": "Mate 9",
@@ -749,6 +797,7 @@
     }
   },
   {
+    "id": "a660a29d-e6fa-11eb-bcb2-02661827fd72",
     "name": "Google Pixel XL",
     "manufacturer": "Google",
     "model": "Pixel XL",
@@ -765,6 +814,7 @@
     }
   },
   {
+    "id": "a660a29e-e6fa-11eb-b9d0-02661827fd72",
     "name": "Google Pixel",
     "manufacturer": "Google",
     "model": "Pixel",
@@ -781,6 +831,7 @@
     }
   },
   {
+    "id": "a660a29f-e6fa-11eb-bbab-02661827fd72",
     "name": "iPhone 7",
     "manufacturer": "iPhone",
     "model": "7",
@@ -797,6 +848,7 @@
     }
   },
   {
+    "id": "a660a2a0-e6fa-11eb-b257-02661827fd72",
     "name": "iPhone 7 Plus",
     "manufacturer": "iPhone",
     "model": "7 Plus",
@@ -813,6 +865,7 @@
     }
   },
   {
+    "id": "a660a2a1-e6fa-11eb-89c7-02661827fd72",
     "name": "Sony Xperia X Compact",
     "manufacturer": "Sony",
     "model": "Xperia X Compact",
@@ -828,6 +881,7 @@
     }
   },
   {
+    "id": "a660a2a2-e6fa-11eb-9f3a-02661827fd72",
     "name": "Moto Z",
     "manufacturer": "Moto",
     "model": "Z",
@@ -844,6 +898,7 @@
     }
   },
   {
+    "id": "a660a2a3-e6fa-11eb-b462-02661827fd72",
     "name": "Samsung Galaxy Note7",
     "manufacturer": "Samsung",
     "model": "Galaxy Note7",
@@ -860,6 +915,7 @@
     }
   },
   {
+    "id": "a660a2a4-e6fa-11eb-9a31-02661827fd72",
     "name": "Asus Zenfone 3 Max",
     "manufacturer": "Asus",
     "model": "Zenfone 3 Max",
@@ -875,6 +931,7 @@
     }
   },
   {
+    "id": "a660a2a5-e6fa-11eb-b9bd-02661827fd72",
     "name": "Meizu MX6",
     "manufacturer": "Meizu",
     "model": "MX6",
@@ -891,6 +948,7 @@
     }
   },
   {
+    "id": "a660a2a6-e6fa-11eb-b3d5-02661827fd72",
     "name": "LG G5",
     "manufacturer": "LG",
     "model": "G5",
@@ -907,6 +965,7 @@
     }
   },
   {
+    "id": "a660a2a7-e6fa-11eb-80ce-02661827fd72",
     "name": "Vivo X7 Plus",
     "manufacturer": "Vivo",
     "model": "X7 Plus",
@@ -922,6 +981,7 @@
     }
   },
   {
+    "id": "a660a2a8-e6fa-11eb-94bd-02661827fd72",
     "name": "Vivo X7",
     "manufacturer": "Vivo",
     "model": "X7",
@@ -937,6 +997,7 @@
     }
   },
   {
+    "id": "a660a2a9-e6fa-11eb-8805-02661827fd72",
     "name": "Huawei P9",
     "manufacturer": "Huawei",
     "model": "P9",
@@ -953,6 +1014,7 @@
     }
   },
   {
+    "id": "a660a2aa-e6fa-11eb-a196-02661827fd72",
     "name": "Xiaomi Mi 5",
     "manufacturer": "Xiaomi",
     "model": "Mi 5",
@@ -969,6 +1031,7 @@
     }
   },
   {
+    "id": "a660a2ab-e6fa-11eb-b076-02661827fd72",
     "name": "iPhone SE",
     "manufacturer": "iPhone",
     "model": "SE",
@@ -985,6 +1048,7 @@
     }
   },
   {
+    "id": "a660a2ac-e6fa-11eb-a883-02661827fd72",
     "name": "Oppo R9m",
     "manufacturer": "Oppo",
     "model": "R9m",
@@ -1001,6 +1065,7 @@
     }
   },
   {
+    "id": "a660a2ad-e6fa-11eb-9acb-02661827fd72",
     "name": "Samsung Galaxy S7",
     "manufacturer": "Samsung",
     "model": "Galaxy S7",
@@ -1017,6 +1082,7 @@
     }
   },
   {
+    "id": "a660a2ae-e6fa-11eb-bd8c-02661827fd72",
     "name": "Samsung Galaxy S7 Edge",
     "manufacturer": "Samsung",
     "model": "Galaxy S7 Edge",
@@ -1033,6 +1099,7 @@
     }
   },
   {
+    "id": "a660a2af-e6fa-11eb-8d6c-02661827fd72",
     "name": "Lenovo K5 Note",
     "manufacturer": "Lenovo",
     "model": "K5 Note",
@@ -1049,6 +1116,7 @@
     }
   },
   {
+    "id": "a660a2b0-e6fa-11eb-9037-02661827fd72",
     "name": "Fairphone 2",
     "manufacturer": "Fairphone",
     "model": "2",
@@ -1063,6 +1131,7 @@
     }
   },
   {
+    "id": "a660a2b1-e6fa-11eb-a089-02661827fd72",
     "name": "Huawei Mate 8",
     "manufacturer": "Huawei",
     "model": "Mate 8",
@@ -1079,6 +1148,7 @@
     }
   },
   {
+    "id": "a660a2b2-e6fa-11eb-b6e4-02661827fd72",
     "name": "Xiaomi Redmi Note 3",
     "manufacturer": "Xiaomi",
     "model": "Redmi Note 3",
@@ -1095,6 +1165,7 @@
     }
   },
   {
+    "id": "a660a2b3-e6fa-11eb-9529-02661827fd72",
     "name": "Wiko Pulp 4G Phone",
     "manufacturer": "Wiko",
     "model": "Pulp 4G Phone",
@@ -1111,6 +1182,7 @@
     }
   },
   {
+    "id": "a660a2b4-e6fa-11eb-9906-02661827fd72",
     "name": "iPhone 6s",
     "manufacturer": "iPhone",
     "model": "6s",
@@ -1127,6 +1199,7 @@
     }
   },
   {
+    "id": "a660a2b5-e6fa-11eb-b297-02661827fd72",
     "name": "iPhone 6s Plus",
     "manufacturer": "iPhone",
     "model": "6s Plus",
@@ -1143,6 +1216,7 @@
     }
   },
   {
+    "id": "a660a2b6-e6fa-11eb-872d-02661827fd72",
     "name": "Nexus 5X",
     "manufacturer": "Nexus",
     "model": "5X",
@@ -1159,6 +1233,7 @@
     }
   },
   {
+    "id": "a66304f0-e6fa-11eb-8fc1-02661827fd72",
     "name": "Nexus 6P",
     "manufacturer": "Nexus",
     "model": "6P",
@@ -1173,6 +1248,7 @@
     }
   },
   {
+    "id": "a66304f1-e6fa-11eb-9ccd-02661827fd72",
     "name": "OnePlus 2",
     "manufacturer": "OnePlus",
     "model": "2",
@@ -1189,6 +1265,7 @@
     }
   },
   {
+    "id": "a66304f2-e6fa-11eb-ab8f-02661827fd72",
     "name": "Shift 5.1",
     "manufacturer": "Shift",
     "model": "5.1",
@@ -1205,6 +1282,7 @@
     }
   },
   {
+    "id": "a66304f3-e6fa-11eb-9c49-02661827fd72",
     "name": "LG G4",
     "manufacturer": "LG",
     "model": "G4",
@@ -1221,6 +1299,7 @@
     }
   },
   {
+    "id": "a66304f4-e6fa-11eb-9527-02661827fd72",
     "name": "Samsung Galaxy S6",
     "manufacturer": "Samsung",
     "model": "Galaxy S6",
@@ -1237,6 +1316,7 @@
     }
   },
   {
+    "id": "a66304f5-e6fa-11eb-9839-02661827fd72",
     "name": "Samsung Galaxy S6 Edge",
     "manufacturer": "Samsung",
     "model": "Galaxy S6 Edge",
@@ -1253,6 +1333,7 @@
     }
   },
   {
+    "id": "a66304f6-e6fa-11eb-9aee-02661827fd72",
     "name": "HTC One M9",
     "manufacturer": "HTC",
     "model": "One M9",
@@ -1267,6 +1348,7 @@
     }
   },
   {
+    "id": "a66304f7-e6fa-11eb-aa76-02661827fd72",
     "name": "Nexus 6",
     "manufacturer": "Nexus",
     "model": "6",
@@ -1283,6 +1365,7 @@
     }
   },
   {
+    "id": "a66304f8-e6fa-11eb-8269-02661827fd72",
     "name": "iPhone 6 Plus",
     "manufacturer": "iPhone",
     "model": "6 Plus",
@@ -1299,6 +1382,7 @@
     }
   },
   {
+    "id": "a66304f9-e6fa-11eb-8289-02661827fd72",
     "name": "iPhone 6",
     "manufacturer": "iPhone",
     "model": "6",
@@ -1315,6 +1399,7 @@
     }
   },
   {
+    "id": "a66304fa-e6fa-11eb-8698-02661827fd72",
     "name": "Samsung Galaxy Alpha",
     "manufacturer": "Samsung",
     "model": "Galaxy Alpha",
@@ -1331,6 +1416,7 @@
     }
   },
   {
+    "id": "a66304fb-e6fa-11eb-8f35-02661827fd72",
     "name": "Amazon Fire Phone",
     "manufacturer": "Amazon",
     "model": "Fire Phone",
@@ -1347,6 +1433,7 @@
     }
   },
   {
+    "id": "a66304fc-e6fa-11eb-9491-02661827fd72",
     "name": "Samsung Galaxy S5 Mini",
     "manufacturer": "Samsung",
     "model": "Galaxy S5 Mini",
@@ -1362,6 +1449,7 @@
     }
   },
   {
+    "id": "a66304fd-e6fa-11eb-8c36-02661827fd72",
     "name": "OnePlus One",
     "manufacturer": "OnePlus",
     "model": "One",
@@ -1378,6 +1466,7 @@
     }
   },
   {
+    "id": "a66304fe-e6fa-11eb-8091-02661827fd72",
     "name": "Samsung Galaxy S5",
     "manufacturer": "Samsung",
     "model": "Galaxy S5",
@@ -1393,6 +1482,7 @@
     }
   },
   {
+    "id": "a66304ff-e6fa-11eb-969c-02661827fd72",
     "name": "HTC One M8",
     "manufacturer": "HTC",
     "model": "One M8",
@@ -1407,6 +1497,7 @@
     }
   },
   {
+    "id": "a6630500-e6fa-11eb-9e23-02661827fd72",
     "name": "Fairphone 1",
     "manufacturer": "Fairphone",
     "model": "1",
@@ -1423,6 +1514,7 @@
     }
   },
   {
+    "id": "a6630501-e6fa-11eb-ace9-02661827fd72",
     "name": "Nexus 5",
     "manufacturer": "Nexus",
     "model": "5",
@@ -1439,6 +1531,7 @@
     }
   },
   {
+    "id": "a6630502-e6fa-11eb-be44-02661827fd72",
     "name": "iPhone 5c",
     "manufacturer": "iPhone",
     "model": "5c",
@@ -1455,6 +1548,7 @@
     }
   },
   {
+    "id": "a6630503-e6fa-11eb-87c9-02661827fd72",
     "name": "iPhone 5s",
     "manufacturer": "iPhone",
     "model": "5s",
@@ -1471,6 +1565,7 @@
     }
   },
   {
+    "id": "a6630504-e6fa-11eb-9a8e-02661827fd72",
     "name": "Motorola Moto X 1st Generation",
     "manufacturer": "Motorola",
     "model": "Moto X 1st Generation",
@@ -1487,6 +1582,7 @@
     }
   },
   {
+    "id": "a6630505-e6fa-11eb-92a6-02661827fd72",
     "name": "Samsung Galaxy S4",
     "manufacturer": "Samsung",
     "model": "Galaxy S4",
@@ -1503,6 +1599,7 @@
     }
   },
   {
+    "id": "a6630506-e6fa-11eb-a4c0-02661827fd72",
     "name": "HTC One",
     "manufacturer": "HTC",
     "model": "One",
@@ -1517,6 +1614,7 @@
     }
   },
   {
+    "id": "a6630507-e6fa-11eb-977a-02661827fd72",
     "name": "BlackBerry Z10",
     "manufacturer": "BlackBerry",
     "model": "Z10",
@@ -1533,6 +1631,7 @@
     }
   },
   {
+    "id": "a6630508-e6fa-11eb-bfb8-02661827fd72",
     "name": "Nexus 4",
     "manufacturer": "Nexus",
     "model": "4",
@@ -1549,6 +1648,7 @@
     }
   },
   {
+    "id": "a6630509-e6fa-11eb-8e82-02661827fd72",
     "name": "Samsung Galaxy Note II",
     "manufacturer": "Samsung",
     "model": "Galaxy Note II",
@@ -1565,6 +1665,7 @@
     }
   },
   {
+    "id": "a663050a-e6fa-11eb-91ca-02661827fd72",
     "name": "iPhone 5",
     "manufacturer": "iPhone",
     "model": "5",
@@ -1581,6 +1682,7 @@
     }
   },
   {
+    "id": "a663050b-e6fa-11eb-a24b-02661827fd72",
     "name": "Samsung Galaxy S III",
     "manufacturer": "Samsung",
     "model": "Galaxy S III",
@@ -1597,6 +1699,7 @@
     }
   },
   {
+    "id": "a663050c-e6fa-11eb-a736-02661827fd72",
     "name": "Motorola Droid 4",
     "manufacturer": "Motorola",
     "model": "Droid 4",
@@ -1613,6 +1716,7 @@
     }
   },
   {
+    "id": "a663050d-e6fa-11eb-ae09-02661827fd72",
     "name": "Samsung Galaxy Nexus",
     "manufacturer": "Samsung",
     "model": "Galaxy Nexus",
@@ -1629,6 +1733,7 @@
     }
   },
   {
+    "id": "a663050e-e6fa-11eb-ba7a-02661827fd72",
     "name": "Motorola Droid RAZR",
     "manufacturer": "Motorola",
     "model": "Droid RAZR",
@@ -1645,6 +1750,7 @@
     }
   },
   {
+    "id": "a663050f-e6fa-11eb-8a70-02661827fd72",
     "name": "iPhone 4S",
     "manufacturer": "iPhone",
     "model": "4S",
@@ -1661,6 +1767,7 @@
     }
   },
   {
+    "id": "a6630510-e6fa-11eb-9184-02661827fd72",
     "name": "Samsung Galaxy Note",
     "manufacturer": "Samsung",
     "model": "Galaxy Note",
@@ -1677,6 +1784,7 @@
     }
   },
   {
+    "id": "a6630511-e6fa-11eb-8b6c-02661827fd72",
     "name": "Motorola Droid Bionic",
     "manufacturer": "Motorola",
     "model": "Droid Bionic",
@@ -1691,6 +1799,7 @@
     }
   },
   {
+    "id": "a6630512-e6fa-11eb-9d7d-02661827fd72",
     "name": "Motorola Droid 3",
     "manufacturer": "Motorola",
     "model": "Droid 3",
@@ -1707,6 +1816,7 @@
     }
   },
   {
+    "id": "a6630513-e6fa-11eb-9462-02661827fd72",
     "name": "Samsung Galaxy S II",
     "manufacturer": "Samsung",
     "model": "Galaxy S II",
@@ -1723,6 +1833,7 @@
     }
   },
   {
+    "id": "a6630514-e6fa-11eb-87c7-02661827fd72",
     "name": "Samsung Galaxy S 4G",
     "manufacturer": "Samsung",
     "model": "Galaxy S 4G",
@@ -1739,6 +1850,7 @@
     }
   },
   {
+    "id": "a6630515-e6fa-11eb-b561-02661827fd72",
     "name": "iPhone 4 Verizon",
     "manufacturer": "iPhone",
     "model": "4 Verizon",
@@ -1755,6 +1867,7 @@
     }
   },
   {
+    "id": "a6630516-e6fa-11eb-b5c7-02661827fd72",
     "name": "Motorola Atrix 4G",
     "manufacturer": "Motorola",
     "model": "Atrix 4G",
@@ -1769,6 +1882,7 @@
     }
   },
   {
+    "id": "a6630517-e6fa-11eb-b01e-02661827fd72",
     "name": "Nexus S",
     "manufacturer": "Nexus",
     "model": "S",
@@ -1785,6 +1899,7 @@
     }
   },
   {
+    "id": "a6630518-e6fa-11eb-8c27-02661827fd72",
     "name": "HTC Surround",
     "manufacturer": "HTC",
     "model": "Surround",
@@ -1801,6 +1916,7 @@
     }
   },
   {
+    "id": "a6630519-e6fa-11eb-9367-02661827fd72",
     "name": "Nokia N8",
     "manufacturer": "Nokia",
     "model": "N8",
@@ -1817,6 +1933,7 @@
     }
   },
   {
+    "id": "a663051a-e6fa-11eb-ad2d-02661827fd72",
     "name": "iPhone 3GS",
     "manufacturer": "iPhone",
     "model": "3GS",
@@ -1833,6 +1950,7 @@
     }
   },
   {
+    "id": "a663051b-e6fa-11eb-b8a5-02661827fd72",
     "name": "iPhone 3G",
     "manufacturer": "iPhone",
     "model": "3G",
@@ -1849,6 +1967,7 @@
     }
   },
   {
+    "id": "a663051c-e6fa-11eb-a05b-02661827fd72",
     "name": "iPhone 1st Generation",
     "manufacturer": "iPhone",
     "model": "1st Generation",

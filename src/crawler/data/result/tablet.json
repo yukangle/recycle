@@ -1,5 +1,6 @@
 [
   {
+    "id": "a7d8a3d6-e6fa-11eb-a92c-02661827fd72",
     "name": "Microsoft Surface Pro X",
     "manufacturer": "Microsoft",
     "model": "Surface Pro X",
@@ -16,6 +17,7 @@
     }
   },
   {
+    "id": "a7d8a3d7-e6fa-11eb-b91d-02661827fd72",
     "name": "iPad 7",
     "manufacturer": "iPad",
     "model": "7",
@@ -30,6 +32,7 @@
     }
   },
   {
+    "id": "a7d8a3d8-e6fa-11eb-bccc-02661827fd72",
     "name": "Elite x2 G4",
     "manufacturer": "Elite",
     "model": "x2 G4",
@@ -44,6 +47,7 @@
     }
   },
   {
+    "id": "a7d8a3d9-e6fa-11eb-aee0-02661827fd72",
     "name": "HP Elite x2 1012 G2",
     "manufacturer": "HP",
     "model": "Elite x2 1012 G2",
@@ -58,6 +62,7 @@
     }
   },
   {
+    "id": "a7d8a3da-e6fa-11eb-b6e2-02661827fd72",
     "name": "iPad Air 3",
     "manufacturer": "iPad",
     "model": "Air 3",
@@ -71,6 +76,7 @@
     }
   },
   {
+    "id": "a7d8a3db-e6fa-11eb-8658-02661827fd72",
     "name": "iPad Mini 5",
     "manufacturer": "iPad",
     "model": "Mini 5",
@@ -85,6 +91,7 @@
     }
   },
   {
+    "id": "a7d8a3dc-e6fa-11eb-9fc9-02661827fd72",
     "name": "Elite X2 1013 G3",
     "manufacturer": "Elite",
     "model": "X2 1013 G3",
@@ -98,6 +105,7 @@
     }
   },
   {
+    "id": "a7d8a3dd-e6fa-11eb-8f3f-02661827fd72",
     "name": "iPad Pro 11\"",
     "manufacturer": "iPad",
     "model": "Pro 11\"",
@@ -113,6 +121,7 @@
     }
   },
   {
+    "id": "a7d8a3de-e6fa-11eb-990d-02661827fd72",
     "name": "Microsoft Surface Pro 6",
     "manufacturer": "Microsoft",
     "model": "Surface Pro 6",
@@ -127,6 +136,7 @@
     }
   },
   {
+    "id": "a7d8a3df-e6fa-11eb-bd40-02661827fd72",
     "name": "iPad 6",
     "manufacturer": "iPad",
     "model": "6",
@@ -141,6 +151,7 @@
     }
   },
   {
+    "id": "a7d8a3e0-e6fa-11eb-a027-02661827fd72",
     "name": "Acer Iconia One 7",
     "manufacturer": "Acer",
     "model": "Iconia One 7",
@@ -157,6 +168,7 @@
     }
   },
   {
+    "id": "a7d8a3e1-e6fa-11eb-aefe-02661827fd72",
     "name": "Kindle Paperwhite 3rd Generation",
     "manufacturer": "Kindle",
     "model": "Paperwhite 3rd Generation",
@@ -173,6 +185,7 @@
     }
   },
   {
+    "id": "a7d8a3e2-e6fa-11eb-9824-02661827fd72",
     "name": "Huawei MediaPad M2",
     "manufacturer": "Huawei",
     "model": "MediaPad M2",
@@ -189,6 +202,7 @@
     }
   },
   {
+    "id": "a7d8a3e3-e6fa-11eb-8008-02661827fd72",
     "name": "Amazon Fire 5th Generation",
     "manufacturer": "Amazon",
     "model": "Fire 5th Generation",
@@ -205,6 +219,7 @@
     }
   },
   {
+    "id": "a7db097e-e6fa-11eb-a297-02661827fd72",
     "name": "HP ElitePad 1000 G2 Teardown",
     "manufacturer": "HP",
     "model": "ElitePad 1000 G2 Teardown",
@@ -221,6 +236,7 @@
     }
   },
   {
+    "id": "a7db097f-e6fa-11eb-b2c5-02661827fd72",
     "name": "Huawei MediaPad T2",
     "manufacturer": "Huawei",
     "model": "MediaPad T2",
@@ -237,6 +253,7 @@
     }
   },
   {
+    "id": "a7db0980-e6fa-11eb-b04e-02661827fd72",
     "name": "Sony Xperia Z4 Tablet",
     "manufacturer": "Sony",
     "model": "Xperia Z4 Tablet",
@@ -253,6 +270,7 @@
     }
   },
   {
+    "id": "a7db0981-e6fa-11eb-b18a-02661827fd72",
     "name": "Samsung Galaxy Tab S3",
     "manufacturer": "Samsung",
     "model": "Galaxy Tab S3",
@@ -269,6 +287,7 @@
     }
   },
   {
+    "id": "a7db0982-e6fa-11eb-9426-02661827fd72",
     "name": "Microsoft Surface Pro 5",
     "manufacturer": "Microsoft",
     "model": "Surface Pro 5",
@@ -283,6 +302,7 @@
     }
   },
   {
+    "id": "a7db0983-e6fa-11eb-9f22-02661827fd72",
     "name": "iPad Pro 10.5\"",
     "manufacturer": "iPad",
     "model": "Pro 10.5\"",
@@ -296,6 +316,7 @@
     }
   },
   {
+    "id": "a7db0984-e6fa-11eb-8c54-02661827fd72",
     "name": "LG G Pad 7.0",
     "manufacturer": "LG",
     "model": "G Pad 7.0",
@@ -312,6 +333,7 @@
     }
   },
   {
+    "id": "a7db0985-e6fa-11eb-b847-02661827fd72",
     "name": "iPad 5 Wi-Fi",
     "manufacturer": "iPad",
     "model": "5 Wi-Fi",
@@ -326,6 +348,7 @@
     }
   },
   {
+    "id": "a7db0986-e6fa-11eb-b587-02661827fd72",
     "name": "HP Pro x2 612 G2",
     "manufacturer": "HP",
     "model": "Pro x2 612 G2",
@@ -342,6 +365,7 @@
     }
   },
   {
+    "id": "a7db0987-e6fa-11eb-9e51-02661827fd72",
     "name": "Google Pixel C",
     "manufacturer": "Google",
     "model": "Pixel C",
@@ -358,6 +382,7 @@
     }
   },
   {
+    "id": "a7db0988-e6fa-11eb-9a80-02661827fd72",
     "name": "HP Elite x2",
     "manufacturer": "HP",
     "model": "Elite x2",
@@ -372,6 +397,7 @@
     }
   },
   {
+    "id": "a7db0989-e6fa-11eb-9858-02661827fd72",
     "name": "iPad Pro 9.7\"",
     "manufacturer": "iPad",
     "model": "Pro 9.7\"",
@@ -385,6 +411,7 @@
     }
   },
   {
+    "id": "a7db098a-e6fa-11eb-bc8c-02661827fd72",
     "name": "iPad Pro 12.9\"",
     "manufacturer": "iPad",
     "model": "Pro 12.9\"",
@@ -401,6 +428,7 @@
     }
   },
   {
+    "id": "a7db098b-e6fa-11eb-88e1-02661827fd72",
     "name": "Microsoft Surface Pro 4",
     "manufacturer": "Microsoft",
     "model": "Surface Pro 4",
@@ -414,6 +442,7 @@
     }
   },
   {
+    "id": "a7db098c-e6fa-11eb-8dd6-02661827fd72",
     "name": "iPad mini 4 Wi-Fi",
     "manufacturer": "iPad",
     "model": "mini 4 Wi-Fi",
@@ -428,6 +457,7 @@
     }
   },
   {
+    "id": "a7db098d-e6fa-11eb-983f-02661827fd72",
     "name": "Kindle Voyage",
     "manufacturer": "Kindle",
     "model": "Voyage",
@@ -444,6 +474,7 @@
     }
   },
   {
+    "id": "a7db098e-e6fa-11eb-a119-02661827fd72",
     "name": "Nexus 9",
     "manufacturer": "Nexus",
     "model": "9",
@@ -460,6 +491,7 @@
     }
   },
   {
+    "id": "a7db098f-e6fa-11eb-a9df-02661827fd72",
     "name": "iPad Mini 3 Wi-Fi",
     "manufacturer": "iPad",
     "model": "Mini 3 Wi-Fi",
@@ -474,6 +506,7 @@
     }
   },
   {
+    "id": "a7db0990-e6fa-11eb-81c8-02661827fd72",
     "name": "iPad Air 2",
     "manufacturer": "iPad",
     "model": "Air 2",
@@ -488,6 +521,7 @@
     }
   },
   {
+    "id": "a7db0991-e6fa-11eb-9ed9-02661827fd72",
     "name": "Kindle 7th Generation",
     "manufacturer": "Kindle",
     "model": "7th Generation",
@@ -504,6 +538,7 @@
     }
   },
   {
+    "id": "a7db0992-e6fa-11eb-8e75-02661827fd72",
     "name": "Kindle Fire HD 6",
     "manufacturer": "Kindle",
     "model": "Fire HD 6",
@@ -520,6 +555,7 @@
     }
   },
   {
+    "id": "a7db0993-e6fa-11eb-baa9-02661827fd72",
     "name": "Microsoft Surface Pro 3",
     "manufacturer": "Microsoft",
     "model": "Surface Pro 3",
@@ -534,6 +570,7 @@
     }
   },
   {
+    "id": "a7db0994-e6fa-11eb-8335-02661827fd72",
     "name": "iPad Mini 2",
     "manufacturer": "iPad",
     "model": "Mini 2",
@@ -548,6 +585,7 @@
     }
   },
   {
+    "id": "a7db0995-e6fa-11eb-a00d-02661827fd72",
     "name": "Amazon Kindle Fire HDX 8.9\"",
     "manufacturer": "Amazon",
     "model": "Kindle Fire HDX 8.9\"",
@@ -564,6 +602,7 @@
     }
   },
   {
+    "id": "a7db0996-e6fa-11eb-acd9-02661827fd72",
     "name": "iPad Air LTE",
     "manufacturer": "iPad",
     "model": "Air LTE",
@@ -578,6 +617,7 @@
     }
   },
   {
+    "id": "a7db0997-e6fa-11eb-99db-02661827fd72",
     "name": "Microsoft Surface Pro 2",
     "manufacturer": "Microsoft",
     "model": "Surface Pro 2",
@@ -592,6 +632,7 @@
     }
   },
   {
+    "id": "a7db0998-e6fa-11eb-9c6d-02661827fd72",
     "name": "Kindle Fire HDX 7\"",
     "manufacturer": "Kindle",
     "model": "Fire HDX 7\"",
@@ -608,6 +649,7 @@
     }
   },
   {
+    "id": "a7db0999-e6fa-11eb-9a61-02661827fd72",
     "name": "Kindle Fire HD 2013",
     "manufacturer": "Kindle",
     "model": "Fire HD 2013",
@@ -624,6 +666,7 @@
     }
   },
   {
+    "id": "a7db099a-e6fa-11eb-98c7-02661827fd72",
     "name": "Dell XPS 10",
     "manufacturer": "Dell",
     "model": "XPS 10",
@@ -640,6 +683,7 @@
     }
   },
   {
+    "id": "a7db099b-e6fa-11eb-bc88-02661827fd72",
     "name": "Microsoft Surface Pro",
     "manufacturer": "Microsoft",
     "model": "Surface Pro",
@@ -654,6 +698,7 @@
     }
   },
   {
+    "id": "a7db099c-e6fa-11eb-b0bb-02661827fd72",
     "name": "Amazon Kindle Fire HD 8.9\"",
     "manufacturer": "Amazon",
     "model": "Kindle Fire HD 8.9\"",
@@ -670,6 +715,7 @@
     }
   },
   {
+    "id": "a7db099d-e6fa-11eb-9b55-02661827fd72",
     "name": "Google Nexus 10",
     "manufacturer": "Google",
     "model": "Nexus 10",
@@ -686,6 +732,7 @@
     }
   },
   {
+    "id": "a7db099e-e6fa-11eb-96eb-02661827fd72",
     "name": "iPad Mini Wi-Fi",
     "manufacturer": "iPad",
     "model": "Mini Wi-Fi",
@@ -700,6 +747,7 @@
     }
   },
   {
+    "id": "a7db099f-e6fa-11eb-adf4-02661827fd72",
     "name": "iPad 4 Wi-Fi",
     "manufacturer": "iPad",
     "model": "4 Wi-Fi",
@@ -714,6 +762,7 @@
     }
   },
   {
+    "id": "a7db09a0-e6fa-11eb-b075-02661827fd72",
     "name": "Microsoft Surface",
     "manufacturer": "Microsoft",
     "model": "Surface",
@@ -730,6 +779,7 @@
     }
   },
   {
+    "id": "a7db09a1-e6fa-11eb-8148-02661827fd72",
     "name": "Kindle Fire HD",
     "manufacturer": "Kindle",
     "model": "Fire HD",
@@ -746,6 +796,7 @@
     }
   },
   {
+    "id": "a7db09a2-e6fa-11eb-8ad3-02661827fd72",
     "name": "Nexus 7",
     "manufacturer": "Nexus",
     "model": "7",
@@ -762,6 +813,7 @@
     }
   },
   {
+    "id": "a7db09a3-e6fa-11eb-98fd-02661827fd72",
     "name": "Nook Simple Touch with GlowLight",
     "manufacturer": "Nook",
     "model": "Simple Touch with GlowLight",
@@ -778,6 +830,7 @@
     }
   },
   {
+    "id": "a7db09a4-e6fa-11eb-b625-02661827fd72",
     "name": "Samsung Galaxy Tab 2 7.0",
     "manufacturer": "Samsung",
     "model": "Galaxy Tab 2 7.0",
@@ -794,6 +847,7 @@
     }
   },
   {
+    "id": "a7db09a5-e6fa-11eb-8c9e-02661827fd72",
     "name": "iPad 3 4G",
     "manufacturer": "iPad",
     "model": "3 4G",
@@ -808,6 +862,7 @@
     }
   },
   {
+    "id": "a7db09a6-e6fa-11eb-92ef-02661827fd72",
     "name": "Nook Tablet",
     "manufacturer": "Nook",
     "model": "Tablet",
@@ -823,6 +878,7 @@
     }
   },
   {
+    "id": "a7db09a7-e6fa-11eb-a6c8-02661827fd72",
     "name": "Kindle Fire",
     "manufacturer": "Kindle",
     "model": "Fire",
@@ -839,6 +895,7 @@
     }
   },
   {
+    "id": "a7db09a8-e6fa-11eb-9dab-02661827fd72",
     "name": "iPad 2 Wi-Fi EMC 2415",
     "manufacturer": "iPad",
     "model": "2 Wi-Fi EMC 2415",
@@ -853,6 +910,7 @@
     }
   },
   {
+    "id": "a7db09a9-e6fa-11eb-8863-02661827fd72",
     "name": "Motorola Xoom",
     "manufacturer": "Motorola",
     "model": "Xoom",
@@ -869,6 +927,7 @@
     }
   },
   {
+    "id": "a7db09aa-e6fa-11eb-b917-02661827fd72",
     "name": "Dell Streak",
     "manufacturer": "Dell",
     "model": "Streak",
@@ -885,6 +944,7 @@
     }
   },
   {
+    "id": "a7db09ab-e6fa-11eb-a551-02661827fd72",
     "name": "iPad Wi-Fi",
     "manufacturer": "iPad",
     "model": "Wi-Fi",
