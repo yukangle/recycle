@@ -33,21 +33,19 @@
   border-right-style: hidden;
   border-left-style: hidden;
   border-bottom-style: hidden;
+  color: #95afc0;
   background: transparent;
+}
+
+.search-input::placeholder {
+  color: #95afc0;
+  opacity: 1;
 }
 
 .search-input:focus {
   outline: none;
 }
 
-input {
-  border-top-style: hidden;
-  border-right-style: hidden;
-  border-left-style: hidden;
-  border-bottom-style: groove;
-  background-color: #eee;
-}
-
-.no-outline:focus {
-  outline: none;
+.submit-button {
+  fill: #6ab04c;
 }

@@ -1,55 +1,21 @@
-
-/* LIGHT */
-
-.card-outer-light {
-  border:1px solid;
-  border-color:#bdbdbd;
-  border-radius:2px;
-  padding: 10px;
-  background: #ffffff;
-}
-
-.card-shimmer-light {
-  background: #d8d8d8;
-  background-repeat: no-repeat;
-  background-size: 800px 104px;
-  height: 104px;
-  position: relative
-}
-
-.card-shimmer-light div {
-  background: #ffffff;
-  height: 6px;
-  left: 0;
-  position: absolute;
-  right: 0
-}
-
-/* DARK */
-
-.card-outer-dark {
-  border:1px solid;
+.card-outer {
+  /* border:1px solid; */
   border-color:#656871;
   border-radius:2px;
+  margin-top: 10px;
   padding: 10px;
-  background: #414247;
+  /* background: #414247; */
+  background: #dff9fb;
+  color: #535c68;
 }
 
-.card-shimmer-dark {
-  background: #656871;
+.card-shimmer {
+  /* background: #656871; */
   background-repeat: no-repeat;
   background-size: 800px 104px;
   height: 104px;
   position: relative
 }
-
-/* .card-shimmer-dark div {
-  background: #414247;
-  height: 6px;
-  left: 0;
-  position: absolute;
-  right: 0
-} */
 
 .card-pic {
   height: 40px;
