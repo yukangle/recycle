@@ -17,6 +17,37 @@
   border: none;
 }
 
-.searchbox {
+.search-container {
   margin-bottom: 10px;
+}
+
+.searchbox {
+  border-radius: 3.5rem;
+  font-size: medium;
+  text-align: left;
+}
+
+.search-input {
+  width: 90%;
+  border-top-style: hidden;
+  border-right-style: hidden;
+  border-left-style: hidden;
+  border-bottom-style: hidden;
+  background: transparent;
+}
+
+.search-input:focus {
+  outline: none;
+}
+
+input {
+  border-top-style: hidden;
+  border-right-style: hidden;
+  border-left-style: hidden;
+  border-bottom-style: groove;
+  background-color: #eee;
+}
+
+.no-outline:focus {
+  outline: none;
 }

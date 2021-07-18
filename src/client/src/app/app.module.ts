@@ -7,14 +7,12 @@ import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { SearchBoxComponent } from './search-box/search-box.component';
 import { MatchedCardComponent } from './matched-card/matched-card.component';
-import { SearchResultsComponent } from './search-results/search-results.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     SearchBoxComponent,
-    MatchedCardComponent,
-    SearchResultsComponent
+    MatchedCardComponent
   ],
   imports: [
     BrowserModule,
