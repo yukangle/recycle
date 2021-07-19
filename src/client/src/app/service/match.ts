@@ -10,5 +10,5 @@ export class Match {
   model!: string;
   issue_time!: string;
   score!: number;
-  plus_and_mins!: PlusMinus;
+  plus_and_minus!: PlusMinus;
 }

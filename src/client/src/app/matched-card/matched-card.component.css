@@ -1,27 +1,56 @@
 .card-outer {
-  /* border:1px solid; */
   border-color:#656871;
   border-radius:2px;
   margin-top: 10px;
   padding: 10px;
-  /* background: #414247; */
   background: #dff9fb;
   color: #535c68;
 }
 
 .card-shimmer {
-  /* background: #656871; */
   background-repeat: no-repeat;
-  background-size: 800px 104px;
-  height: 104px;
+  background-size: auto;
+  height: auto;
   position: relative
 }
 
 .card-pic {
-  height: 40px;
-  width: 40px;
+  height: 80px;
+  width: 80px;
   left: 10px;
   right: auto;
   top: 10px;
-  background-image: url(https://via.placeholder.com/40);
+  background-image: url(https://via.placeholder.com/80);
+}
+
+.match-head {
+  text-align: left;
+}
+
+.match-head h1 {
+  color: #535c68;
+}
+
+.match-score {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  background-color: #eb4d4b;
+  text-align: center;
+  font-size: medium;
+  line-height: 40px;
+  color: #dff9fb;
+}
+
+.caption {
+  text-align: left;
+}
+
+.plus_and_minus {
+  text-align: left;
+}
+
+.time_stamp {
+  color: #22a6b3;
+  font-weight: bold;
 }
