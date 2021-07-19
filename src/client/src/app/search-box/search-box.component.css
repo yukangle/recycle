@@ -16,3 +16,36 @@
   background-color: #FA8900;
   border: none;
 }
+
+.search-container {
+  margin-bottom: 10px;
+}
+
+.searchbox {
+  border-radius: 3.5rem;
+  font-size: medium;
+  text-align: left;
+}
+
+.search-input {
+  width: 90%;
+  border-top-style: hidden;
+  border-right-style: hidden;
+  border-left-style: hidden;
+  border-bottom-style: hidden;
+  color: #95afc0;
+  background: transparent;
+}
+
+.search-input::placeholder {
+  color: #95afc0;
+  opacity: 1;
+}
+
+.search-input:focus {
+  outline: none;
+}
+
+.submit-button {
+  fill: #6ab04c;
+}
