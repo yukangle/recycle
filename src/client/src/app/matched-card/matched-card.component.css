@@ -13,6 +13,9 @@
   height: auto;
   position: relative
 }
+.card-shimmer ul {
+  list-style: none;
+}
 
 .card-pic {
   height: 80px;
@@ -44,6 +47,17 @@
 
 .caption {
   text-align: left;
+  width: 16px;
+  height: 8px;
+  border-radius: 4px;
+}
+
+.plus {
+  background-color: #2ecc71;
+}
+
+.minus {
+  background-color: #e74c3c;
 }
 
 .plus_and_minus {

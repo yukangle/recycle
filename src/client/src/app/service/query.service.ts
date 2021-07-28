@@ -9,7 +9,8 @@ import { HttpClient, HttpHeaders, HttpErrorResponse } from '@angular/common/http
 })
 export class QueryService {
 
-  API: string = "http://localhost:8000/api";
+  // API: string = "http://localhost:8000/api";
+  API: string = "https://nameless-badlands-74340.herokuapp.com/api";
 
   httpHeaders = new HttpHeaders().set('Content-Type', 'application/json');
 
@@ -21,9 +22,10 @@ export class QueryService {
     }
 
     let URL = `${this.API}/matches/${term}`;
+    // console.log("Quering..." + URL);
     return this.httpClient.get<Match[]>(URL, {headers: this.httpHeaders})
     .pipe(
-      tap(rets => console.log('RESULTS: ' + rets)),
+      // tap(rets => console.log('RESULTS: ' + rets)),
       catchError(this.handleError));
   }
 

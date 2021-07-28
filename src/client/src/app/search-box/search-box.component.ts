@@ -24,18 +24,19 @@ export class SearchBoxComponent implements OnInit {
 
   ngOnInit(): void {
     this.results$ = this.searchTerms.pipe(
-      debounceTime(300),
+      debounceTime(50),
       distinctUntilChanged(),
       switchMap((term: string) => this.service.QueryMatches(term))
     );
   }
 
   search(term: string): any {
-    console.log("searching...");
+    let search = term.split(' ').join(';');
+    console.log("searching..." + search);
     if (!this.isSearched) {
       this.isSearched = true;
       this.isSearchedChanged.emit(true);
     }
-    this.searchTerms.next(term);
+    this.searchTerms.next(search);
   }
 }
