@@ -21,7 +21,7 @@ https://developer.ibm.com/callforcode/get-started/climate-change/green-consumpti
 A platform to provide  transparency on reparability for digital devices to assist decision making for  purchasing or repairing
 
 ## Demo video
-[![Watch the video](https://github.com/yukangle/recycle/video-demo.png)]()
+[![Watch the video](https://github.com/yukangle/recycle/blob/main/video-demo.png)]()
 
 ## The architecture
 ![architecture](https://github.com/yukangle/recycle/blob/main/architecture.png)
