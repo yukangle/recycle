@@ -1,11 +1,11 @@
-# Recycle
+# Recycle (Dionysus)
 This is a POC project for IBM Call-For-Code event, which we are mainly focus on one of topic - "Responsible production and green consumption"
 
 The main page of the get-started can be found here
 https://developer.ibm.com/callforcode/get-started/climate-change/green-consumption/
 
 ## Contents
-- [Recycle](#recycle)
+- [Recycle (Dionysus)](#recycle-dionysus)
   - [Contents](#contents)
   - [Short description](#short-description)
   - [Demo video](#demo-video)
