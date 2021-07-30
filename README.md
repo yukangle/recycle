@@ -24,7 +24,7 @@ A platform to provide  transparency on reparability for digital devices to assi
 [![Watch the video](https://github.com/yukangle/recycle/video-demo.png)]()
 
 ## The architecture
-![architecture](https://github.com/yukangle/recycle/architecture.png)
+![architecture](https://github.com/yukangle/recycle/blob/main/architecture.png)
 
 ## Long description
 Electronics are getting smaller and more sophisticated, making recovery and reuse of materials challenging.  While there are a growing environmental friendly awareness from more consumers,     it is currently a challenge to find handy information about reparability of electronics for them to make decisions on purchasing or repairing such products.
@@ -50,7 +50,7 @@ The solution consists of 3 key components
 
 ## Live demo
 
-You can find a running system to test at [IBM Cloud](https://recycle-portal-v-1-2.s3.jp-tok.cloud-object-storage.appdomain.cloud/index.html).
+You can find a running system to test at [Live Demo on IBM Cloud Host](https://recycle-portal-v-1-2.s3.jp-tok.cloud-object-storage.appdomain.cloud/index.html).
 
 ## Built with
 - IBM Cloudant - The NoSQL database used
